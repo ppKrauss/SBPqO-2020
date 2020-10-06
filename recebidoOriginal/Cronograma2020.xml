@@ -1,0 +1,2166 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Cronograma xmlns:xsd="https://www.w3.org/2001/XMLSchema" xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance">
+	<Apresentacao>
+		<Titulo>Apresentação Oral  - Sessão I  Área 5</Titulo>
+		<Sala>Sala: K</Sala>
+		<Trabalhos>Trabalhos de AO0001 a AO0006</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[08h00 - 10h00 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Apresentação Oral  - Sessão I  Área 5</Titulo>
+		<Sala>Sala: K</Sala>
+		<Trabalhos>Trabalhos de AO0007 a AO0011</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[10h15 - 12h30 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Apresentação Oral  - Sessão I  Área 6</Titulo>
+		<Sala>Sala: L</Sala>
+		<Trabalhos>Trabalhos de AO0012 a AO0017</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[08h00 - 10h00 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Apresentação Oral  - Sessão I  Área 6</Titulo>
+		<Sala>Sala: L</Sala>
+		<Trabalhos>Trabalhos de AO0018 a AO0021</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[10h15 - 12h30 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Apresentação Oral  - Sessão I  Área 9</Titulo>
+		<Sala>Sala: M</Sala>
+		<Trabalhos>Trabalhos de AO0022 a AO0026</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[08h00 - 10h00 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Apresentação Oral  - Sessão I  Área 9</Titulo>
+		<Sala>Sala: M</Sala>
+		<Trabalhos>Trabalhos de AO0027 a AO0030</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[10h15 - 12h30 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Apresentação Oral  - Sessão II  Área 3</Titulo>
+		<Sala>Sala: K</Sala>
+		<Trabalhos>Trabalhos de AO0031 a AO0036</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[14h00 - 16h00 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Apresentação Oral  - Sessão II  Área 3</Titulo>
+		<Sala>Sala: K</Sala>
+		<Trabalhos>Trabalhos de AO0037 a AO0042</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[16h15 - 18h30 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Apresentação Oral  - Sessão II  Área 4</Titulo>
+		<Sala>Sala: L</Sala>
+		<Trabalhos>Trabalhos de AO0043 a AO0048</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[14h00 - 16h00 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Apresentação Oral  - Sessão II  Área 4</Titulo>
+		<Sala>Sala: L</Sala>
+		<Trabalhos>Trabalhos de AO0049 a AO0053</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[16h15 - 18h30 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Apresentação Oral  - Sessão II  Área 7</Titulo>
+		<Sala>Sala: M</Sala>
+		<Trabalhos>Trabalhos de AO0054 a AO0058</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[14h00 - 16h00 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Apresentação Oral  - Sessão II  Área 7</Titulo>
+		<Sala>Sala: M</Sala>
+		<Trabalhos>Trabalhos de AO0059 a AO0062</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[16h15 - 18h30 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Apresentação Oral  - Sessão III  Área 3</Titulo>
+		<Sala>Sala: K</Sala>
+		<Trabalhos>Trabalhos de AO0063 a AO0068</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[08h00 - 10h00 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Apresentação Oral  - Sessão III  Área 3</Titulo>
+		<Sala>Sala: K</Sala>
+		<Trabalhos>Trabalhos de AO0069 a AO0074</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[10h15 - 12h30 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Apresentação Oral  - Sessão III  Área 4</Titulo>
+		<Sala>Sala: L</Sala>
+		<Trabalhos>Trabalhos de AO0075 a AO0081</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[08h00 - 10h00 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Apresentação Oral  - Sessão III  Área 4</Titulo>
+		<Sala>Sala: L</Sala>
+		<Trabalhos>Trabalhos de AO0082 a AO0086</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[10h15 - 12h30 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Apresentação Oral  - Sessão III  Área 7</Titulo>
+		<Sala>Sala: M</Sala>
+		<Trabalhos>Trabalhos de AO0087 a AO0090  (+ AO0214)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[08h00 - 10h00 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Apresentação Oral  - Sessão III  Área 7</Titulo>
+		<Sala>Sala: M</Sala>
+		<Trabalhos>Trabalhos de AO0091 a AO0094  (+ AO0214)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[10h15 - 12h30 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Apresentação Oral  - Sessão IV  Área 1</Titulo>
+		<Sala>Sala: K</Sala>
+		<Trabalhos>Trabalhos de AO0095 a AO0100  (+ AO0214)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[14h00 - 16h00 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Apresentação Oral  - Sessão IV  Área 1</Titulo>
+		<Sala>Sala: K</Sala>
+		<Trabalhos>Trabalhos de AO0101 a AO0106  (+ AO0214)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[16h15 - 18h30 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Apresentação Oral  - Sessão IV  Área 2</Titulo>
+		<Sala>Sala: L</Sala>
+		<Trabalhos>Trabalhos de AO0107 a AO0112  (+ AO0214)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[14h00 - 16h00 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Apresentação Oral  - Sessão IV  Área 2</Titulo>
+		<Sala>Sala: L</Sala>
+		<Trabalhos>Trabalhos de AO0113 a AO0118  (+ AO0214)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[16h15 - 18h30 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Apresentação Oral  - Sessão IV  Área 8</Titulo>
+		<Sala>Sala: M</Sala>
+		<Trabalhos>Trabalhos de AO0119 a AO0124  (+ AO0214)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[14h00 - 16h00 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Apresentação Oral  - Sessão IV  Área 8</Titulo>
+		<Sala>Sala: M</Sala>
+		<Trabalhos>Trabalhos de AO0125 a AO0130  (+ AO0214)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[16h15 - 18h30 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Apresentação Oral  - Sessão IV  Área 10</Titulo>
+		<Sala>Sala: N</Sala>
+		<Trabalhos>Trabalhos de AO0131 a AO0135  (+ AO0214)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[14h00 - 16h00 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Apresentação Oral  - Sessão IV  Área 10</Titulo>
+		<Sala>Sala: N</Sala>
+		<Trabalhos>Trabalhos de AO0136 a AO0139  (+ AO0214)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[16h15 - 18h30 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Apresentação Oral  - Sessão V  Área 1</Titulo>
+		<Sala>Sala: K</Sala>
+		<Trabalhos>Trabalhos de AO0140 a AO0145  (+ AO0214)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[08h00 - 10h00 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Apresentação Oral  - Sessão V  Área 1</Titulo>
+		<Sala>Sala: K</Sala>
+		<Trabalhos>Trabalhos de AO0146 a AO0151  (+ AO0214)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[10h15 - 12h30 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Apresentação Oral  - Sessão V  Área 2</Titulo>
+		<Sala>Sala: L</Sala>
+		<Trabalhos>Trabalhos de AO0152 a AO0157  (+ AO0214)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[08h00 - 10h00 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Apresentação Oral  - Sessão V  Área 2</Titulo>
+		<Sala>Sala: L</Sala>
+		<Trabalhos>Trabalhos de AO0158 a AO0162  (+ AO0214)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[10h15 - 12h30 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Apresentação Oral  - Sessão V  Área 8</Titulo>
+		<Sala>Sala: M</Sala>
+		<Trabalhos>Trabalhos de AO0163 a AO0167  (+ AO0214)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[08h00 - 10h00 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Apresentação Oral  - Sessão V  Área 8</Titulo>
+		<Sala>Sala: M</Sala>
+		<Trabalhos>Trabalhos de AO0168 a AO0172  (+ AO0214)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[10h15 - 12h30 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Apresentação Oral  - Sessão V  Área 10</Titulo>
+		<Sala>Sala: J</Sala>
+		<Trabalhos>Trabalhos de AO0173 a AO0177  (+ AO0214)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[08h00 - 10h00 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Apresentação Oral  - Sessão V  Área 10</Titulo>
+		<Sala>Sala: J</Sala>
+		<Trabalhos>Trabalhos de AO0178 a AO0181  (+ AO0214)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[10h15 - 12h30 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Apresentação Oral  - Sessão VI  Área 5</Titulo>
+		<Sala>Sala: K</Sala>
+		<Trabalhos>Trabalhos de AO0182 a AO0186  (+ AO0008)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[14h00 - 16h00 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Apresentação Oral  - Sessão VI  Área 5</Titulo>
+		<Sala>Sala: K</Sala>
+		<Trabalhos>Trabalhos de AO0187 a AO0191  (+ AO0008)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[16h15 - 18h30 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Apresentação Oral  - Sessão VI  Área 6</Titulo>
+		<Sala>Sala: L</Sala>
+		<Trabalhos>Trabalhos de AO0192 a AO0197  (+ AO0008)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[14h00 - 16h00 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Apresentação Oral  - Sessão VI  Área 6</Titulo>
+		<Sala>Sala: L</Sala>
+		<Trabalhos>Trabalhos de AO0198 a AO0203  (+ AO0008)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[16h15 - 18h30 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Apresentação Oral  - Sessão VI  Área 9</Titulo>
+		<Sala>Sala: M</Sala>
+		<Trabalhos>Trabalhos de AO0204 a AO0208  (+ AO0008)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[14h00 - 16h00 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Apresentação Oral  - Sessão VI  Área 9</Titulo>
+		<Sala>Sala: M</Sala>
+		<Trabalhos>Trabalhos de AO0209 a AO0213  (+ AO0008)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[16h15 - 18h30 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Fórum Científico  - Sessão VI  Área 9</Titulo>
+		<Sala>Sala: U</Sala>
+		<Trabalhos>Trabalhos de FC001 a FC003  (+ AO0008)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[14h00 - 16h00 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Fórum Científico  - Sessão VI  Área 9</Titulo>
+		<Sala>Sala: U</Sala>
+		<Trabalhos>Trabalhos de FC004 a FC006  (+ AO0008)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[16h15 - 18h30 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Fórum Científico  - Sessão VI  Área 9</Titulo>
+		<Sala>Sala: U</Sala>
+		<Trabalhos>Trabalhos de FC007 a FC009  (+ AO0008)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[08h00 - 10h00 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Fórum Científico  - Sessão VI  Área 9</Titulo>
+		<Sala>Sala: U</Sala>
+		<Trabalhos>Trabalhos de FC010 a FC012  (+ AO0008)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[10h15 - 12h30 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Fórum Científico  - Sessão VI  Área 9</Titulo>
+		<Sala>Sala: U</Sala>
+		<Trabalhos>Trabalhos de FC013 a FC015  (+ AO0008)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[14h00 - 16h00 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Fórum Científico  - Sessão VI  Área 9</Titulo>
+		<Sala>Sala: U</Sala>
+		<Trabalhos>Trabalhos de FC016 a FC018  (+ AO0008)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[16h15 - 18h30 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Fórum Científico  - Sessão VI  Área 9</Titulo>
+		<Sala>Sala: U</Sala>
+		<Trabalhos>Trabalhos de FC019 a FC021  (+ AO0008)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[08h00 - 10h00 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Fórum Científico  - Sessão VI  Área 9</Titulo>
+		<Sala>Sala: U</Sala>
+		<Trabalhos>Trabalhos de FC022 a FC024  (+ AO0008)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[10h15 - 12h30 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Fórum Científico  - Sessão VI  Área 9</Titulo>
+		<Sala>Sala: U</Sala>
+		<Trabalhos>Trabalhos de FC025 a FC027  (+ AO0008)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[14h00 - 16h00 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Fórum Científico  - Sessão VI  Área 9</Titulo>
+		<Sala>Sala: U</Sala>
+		<Trabalhos>Trabalhos de FC028 a FC030  (+ AO0008)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[16h15 - 18h30 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>HATTON  - Sessão VI  Área 9</Titulo>
+		<Sala>Sala: Z</Sala>
+		<Trabalhos>Trabalhos de HA011 a HA015  (+ AO0008)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[14h00 - 16h00 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>HATTON  - Sessão VI  Área 9</Titulo>
+		<Sala>Sala: Z</Sala>
+		<Trabalhos>Trabalhos de HA016 a HA018  (+ AO0008)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[16h15 - 18h30 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>HATTON  - Sessão VI  Área 9</Titulo>
+		<Sala>Sala: Z</Sala>
+		<Trabalhos>Trabalhos de HA001 a HA005  (+ AO0008)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[08h00 - 10h00 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>HATTON  - Sessão VI  Área 9</Titulo>
+		<Sala>Sala: Z</Sala>
+		<Trabalhos>Trabalhos de HA006 a HA010  (+ AO0008)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[10h15 - 12h30 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>HATTON  - Sessão VI  Área 9</Titulo>
+		<Sala>Sala: Z</Sala>
+		<Trabalhos>Trabalhos de  a   (+ AO0008)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[08h00 - 10h00 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>HATTON  - Sessão VI  Área 9</Titulo>
+		<Sala>Sala: Z</Sala>
+		<Trabalhos>Trabalhos de  a   (+ AO0008)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[10h15 - 11h30 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>HATTON  - Sessão VI  Área 9</Titulo>
+		<Sala>Sala: Z</Sala>
+		<Trabalhos>Trabalhos de  a   (+ AO0008)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[14h00 - 16h00 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>HATTON  - Sessão VI  Área 9</Titulo>
+		<Sala>Sala: Z</Sala>
+		<Trabalhos>Trabalhos de  a   (+ AO0008)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[16h15 - 18h30 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão II  Área 5</Titulo>
+		<Sala>Sala: A</Sala>
+		<Trabalhos>Trabalhos de PN0220 a PN0231  (+ AO0008)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[14h00 - 16h00 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão II  Área 5</Titulo>
+		<Sala>Sala: A</Sala>
+		<Trabalhos>Trabalhos de PN0232 a PN0243  (+ AO0008)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[16h15 - 18h30 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão II  Área 5</Titulo>
+		<Sala>Sala: B</Sala>
+		<Trabalhos>Trabalhos de PN0244 a PN0254  (+ AO0008)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[14h00 - 16h00 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão II  Área 5</Titulo>
+		<Sala>Sala: B</Sala>
+		<Trabalhos>Trabalhos de PN0255 a PN0265  (+ AO0008)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[16h15 - 18h30 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão II  Área 5</Titulo>
+		<Sala>Sala: C</Sala>
+		<Trabalhos>Trabalhos de PN0266 a PN0276  (+ AO0008)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[14h00 - 16h00 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão II  Área 5</Titulo>
+		<Sala>Sala: C</Sala>
+		<Trabalhos>Trabalhos de PN0277 a PN0287  (+ AO0008)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[16h15 - 18h30 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão II  Área 5</Titulo>
+		<Sala>Sala: D</Sala>
+		<Trabalhos>Trabalhos de PN0288 a PN0298  (+ AO0008)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[14h00 - 16h00 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão II  Área 5</Titulo>
+		<Sala>Sala: D</Sala>
+		<Trabalhos>Trabalhos de PN0299 a PN0309  (+ AO0008)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[16h15 - 18h30 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão II  Área 5</Titulo>
+		<Sala>Sala: E</Sala>
+		<Trabalhos>Trabalhos de PN0310 a PN0320  (+ AO0008)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[14h00 - 16h00 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão II  Área 5</Titulo>
+		<Sala>Sala: E</Sala>
+		<Trabalhos>Trabalhos de PN0321 a PN0331  (+ AO0008)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[16h15 - 18h30 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão II  Área 5</Titulo>
+		<Sala>Sala: F</Sala>
+		<Trabalhos>Trabalhos de PN0332 a PN0342  (+ AO0008)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[14h00 - 16h00 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão II  Área 5</Titulo>
+		<Sala>Sala: F</Sala>
+		<Trabalhos>Trabalhos de PN0343 a PN0353  (+ AO0008)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[16h15 - 18h30 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão II  Área 6</Titulo>
+		<Sala>Sala: G</Sala>
+		<Trabalhos>Trabalhos de PN0354 a PN0365  (+ AO0008)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[14h00 - 16h00 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão II  Área 6</Titulo>
+		<Sala>Sala: G</Sala>
+		<Trabalhos>Trabalhos de PN0366 a PN0377  (+ AO0008)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[16h15 - 18h30 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão II  Área 6</Titulo>
+		<Sala>Sala: H</Sala>
+		<Trabalhos>Trabalhos de PN0378 a PN0389  (+ AO0008)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[14h00 - 16h00 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão II  Área 6</Titulo>
+		<Sala>Sala: H</Sala>
+		<Trabalhos>Trabalhos de PN0390 a PN0400  (+ AO0008)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[16h15 - 18h30 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão II  Área 9</Titulo>
+		<Sala>Sala: I</Sala>
+		<Trabalhos>Trabalhos de PN0401 a PN0411  (+ AO0008)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[14h00 - 16h00 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão II  Área 9</Titulo>
+		<Sala>Sala: I</Sala>
+		<Trabalhos>Trabalhos de PN0412 a PN0422  (+ AO0008)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[16h15 - 18h30 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão II  Área 9</Titulo>
+		<Sala>Sala: J</Sala>
+		<Trabalhos>Trabalhos de PN0423 a PN0433  (+ AO0008)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[14h00 - 16h00 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão II  Área 9</Titulo>
+		<Sala>Sala: J</Sala>
+		<Trabalhos>Trabalhos de PN0434 a PN0443  (+ AO0008)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[16h15 - 18h30 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão I  Área 3</Titulo>
+		<Sala>Sala: A</Sala>
+		<Trabalhos>Trabalhos de PN0001 a PN0012  (+ AO0008)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[08h00 - 10h00 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão I  Área 3</Titulo>
+		<Sala>Sala: A</Sala>
+		<Trabalhos>Trabalhos de PN0013 a PN0024  (+ AO0008)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[10h15 - 12h30 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão I  Área 3</Titulo>
+		<Sala>Sala: B</Sala>
+		<Trabalhos>Trabalhos de PN0025 a PN0035  (+ AO0008)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[08h00 - 10h00 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão I  Área 3</Titulo>
+		<Sala>Sala: B</Sala>
+		<Trabalhos>Trabalhos de PN0036 a PN0046  (+ AO0008)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[10h15 - 12h30 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão I  Área 4</Titulo>
+		<Sala>Sala: C</Sala>
+		<Trabalhos>Trabalhos de PN0047 a PN0058  (+ AO0008)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[08h00 - 10h00 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão I  Área 4</Titulo>
+		<Sala>Sala: C</Sala>
+		<Trabalhos>Trabalhos de PN0059 a PN0070  (+ AO0008)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[10h15 - 12h30 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão I  Área 4</Titulo>
+		<Sala>Sala: D</Sala>
+		<Trabalhos>Trabalhos de PN0071 a PN0081  (+ AO0008)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[08h00 - 10h00 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão I  Área 4</Titulo>
+		<Sala>Sala: D</Sala>
+		<Trabalhos>Trabalhos de PN0082 a PN0092  (+ AO0008)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[10h15 - 12h30 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão I  Área 4</Titulo>
+		<Sala>Sala: E</Sala>
+		<Trabalhos>Trabalhos de PN0093 a PN0103  (+ AO0008)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[08h00 - 10h00 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão I  Área 4</Titulo>
+		<Sala>Sala: E</Sala>
+		<Trabalhos>Trabalhos de PN0104 a PN0114  (+ AO0008)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[10h15 - 12h30 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão I  Área 4</Titulo>
+		<Sala>Sala: F</Sala>
+		<Trabalhos>Trabalhos de PN0115 a PN0125  (+ AO0008)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[08h00 - 10h00 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão I  Área 4</Titulo>
+		<Sala>Sala: F</Sala>
+		<Trabalhos>Trabalhos de PN0126 a PN0136  (+ AO0008)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[10h15 - 12h30 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão I  Área 4</Titulo>
+		<Sala>Sala: G</Sala>
+		<Trabalhos>Trabalhos de PN0137 a PN0147  (+ AO0008)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[08h00 - 10h00 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão I  Área 4</Titulo>
+		<Sala>Sala: G</Sala>
+		<Trabalhos>Trabalhos de PN0148 a PN0158  (+ AO0008)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[10h15 - 12h30 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão I  Área 4</Titulo>
+		<Sala>Sala: H</Sala>
+		<Trabalhos>Trabalhos de PN0159 a PN0169  (+ AO0008)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[08h00 - 10h00 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão I  Área 4</Titulo>
+		<Sala>Sala: H</Sala>
+		<Trabalhos>Trabalhos de PN0170 a PN0180  (+ AO0008)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[10h15 - 12h30 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão I  Área 7</Titulo>
+		<Sala>Sala: I</Sala>
+		<Trabalhos>Trabalhos de PN0181 a PN0190  (+ AO0008)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[08h00 - 10h00 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão I  Área 7</Titulo>
+		<Sala>Sala: I</Sala>
+		<Trabalhos>Trabalhos de PN0191 a PN0200  (+ AO0008)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[10h15 - 12h30 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão I  Área 7</Titulo>
+		<Sala>Sala: J</Sala>
+		<Trabalhos>Trabalhos de PN0201 a PN0210  (+ AO0008)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[08h00 - 10h00 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão I  Área 7</Titulo>
+		<Sala>Sala: J</Sala>
+		<Trabalhos>Trabalhos de PN0211 a PN0219  (+ AO0008)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[10h15 - 12h30 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão IV  Área 3</Titulo>
+		<Sala>Sala: A</Sala>
+		<Trabalhos>Trabalhos de PN0657 a PN0669  (+ AO0008)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[14h00 - 16h00 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão IV  Área 3</Titulo>
+		<Sala>Sala: A</Sala>
+		<Trabalhos>Trabalhos de PN0670 a PN0681  (+ AO0008)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[16h15 - 18h30 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão IV  Área 3</Titulo>
+		<Sala>Sala: B</Sala>
+		<Trabalhos>Trabalhos de PN0682 a PN0693  (+ AO0008)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[14h00 - 16h00 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão IV  Área 3</Titulo>
+		<Sala>Sala: B</Sala>
+		<Trabalhos>Trabalhos de PN0694 a PN0703  (+ PN0040)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[16h15 - 18h30 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão IV  Área 4</Titulo>
+		<Sala>Sala: C</Sala>
+		<Trabalhos>Trabalhos de PN0704 a PN0714  (+ PN1314)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[14h00 - 16h00 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão IV  Área 4</Titulo>
+		<Sala>Sala: C</Sala>
+		<Trabalhos>Trabalhos de PN0715 a PN0725  (+ PN1316)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[16h15 - 18h30 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão IV  Área 4</Titulo>
+		<Sala>Sala: D</Sala>
+		<Trabalhos>Trabalhos de PN0726 a PN0736  (+ PN1317)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[14h00 - 16h00 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão IV  Área 4</Titulo>
+		<Sala>Sala: D</Sala>
+		<Trabalhos>Trabalhos de PN0737 a PN0748  (+ PN1317)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[16h15 - 18h30 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão IV  Área 4</Titulo>
+		<Sala>Sala: E</Sala>
+		<Trabalhos>Trabalhos de PN0749 a PN0759  (+ PN1317)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[14h00 - 16h00 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão IV  Área 4</Titulo>
+		<Sala>Sala: E</Sala>
+		<Trabalhos>Trabalhos de PN0760 a PN0770  (+ PN1317)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[16h15 - 18h30 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão IV  Área 4</Titulo>
+		<Sala>Sala: F</Sala>
+		<Trabalhos>Trabalhos de PN0771 a PN0782  (+ PN1317)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[14h00 - 16h00 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão IV  Área 4</Titulo>
+		<Sala>Sala: F</Sala>
+		<Trabalhos>Trabalhos de PN0783 a PN0793  (+ PN1317)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[16h15 - 18h30 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão IV  Área 4</Titulo>
+		<Sala>Sala: G</Sala>
+		<Trabalhos>Trabalhos de PN0794 a PN0804  (+ PN1317)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[14h00 - 16h00 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão IV  Área 4</Titulo>
+		<Sala>Sala: G</Sala>
+		<Trabalhos>Trabalhos de PN0805 a PN0815  (+ PN1317)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[16h15 - 18h30 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão IV  Área 4</Titulo>
+		<Sala>Sala: H</Sala>
+		<Trabalhos>Trabalhos de PN0816 a PN0826  (+ PN1317)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[14h00 - 16h00 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão IV  Área 4</Titulo>
+		<Sala>Sala: H</Sala>
+		<Trabalhos>Trabalhos de PN0827 a PN0837  (+ PN1317)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[16h15 - 18h30 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão IV  Área 7</Titulo>
+		<Sala>Sala: I</Sala>
+		<Trabalhos>Trabalhos de PN0838 a PN0848  (+ PN1317)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[14h00 - 16h00 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão IV  Área 7</Titulo>
+		<Sala>Sala: I</Sala>
+		<Trabalhos>Trabalhos de PN0849 a PN0856  (+ PN1317)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[16h15 - 18h30 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão IV  Área 7</Titulo>
+		<Sala>Sala: J</Sala>
+		<Trabalhos>Trabalhos de PN0857 a PN0866  (+ PN1317)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[14h00 - 16h00 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão IV  Área 7</Titulo>
+		<Sala>Sala: J</Sala>
+		<Trabalhos>Trabalhos de PN0867 a PN0875  (+ PN1317)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[16h15 - 18h30 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão III  Área 1</Titulo>
+		<Sala>Sala: A</Sala>
+		<Trabalhos>Trabalhos de PN0444 a PN0453  (+ PN1317)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[08h00 - 10h00 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão III  Área 1</Titulo>
+		<Sala>Sala: A</Sala>
+		<Trabalhos>Trabalhos de PN0454 a PN0461  (+ PN1317)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[10h15 - 12h30 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão III  Área 2</Titulo>
+		<Sala>Sala: B</Sala>
+		<Trabalhos>Trabalhos de PN0462 a PN0472  (+ PN1317)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[08h00 - 10h00 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão III  Área 2</Titulo>
+		<Sala>Sala: B</Sala>
+		<Trabalhos>Trabalhos de PN0473 a PN0483  (+ PN1317)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[10h15 - 12h30 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão III  Área 2</Titulo>
+		<Sala>Sala: C</Sala>
+		<Trabalhos>Trabalhos de PN0484 a PN0494  (+ PN1317)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[08h00 - 10h00 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão III  Área 2</Titulo>
+		<Sala>Sala: C</Sala>
+		<Trabalhos>Trabalhos de PN0495 a PN0505  (+ PN1317)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[10h15 - 12h30 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão III  Área 2</Titulo>
+		<Sala>Sala: D</Sala>
+		<Trabalhos>Trabalhos de PN0506 a PN0516  (+ PN1317)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[08h00 - 10h00 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão III  Área 2</Titulo>
+		<Sala>Sala: D</Sala>
+		<Trabalhos>Trabalhos de PN0517 a PN0527  (+ PN1317)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[10h15 - 12h30 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão III  Área 2</Titulo>
+		<Sala>Sala: E</Sala>
+		<Trabalhos>Trabalhos de PN0528 a PN0537  (+ PN1320)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[08h00 - 10h00 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão III  Área 2</Titulo>
+		<Sala>Sala: E</Sala>
+		<Trabalhos>Trabalhos de PN0538 a PN0547  (+ PN1320)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[10h15 - 12h30 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão III  Área 8</Titulo>
+		<Sala>Sala: F</Sala>
+		<Trabalhos>Trabalhos de PN0548 a PN0559  (+ PN1320)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[08h00 - 10h00 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão III  Área 8</Titulo>
+		<Sala>Sala: F</Sala>
+		<Trabalhos>Trabalhos de PN0560 a PN0571  (+ PN1320)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[10h15 - 12h30 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão III  Área 8</Titulo>
+		<Sala>Sala: G</Sala>
+		<Trabalhos>Trabalhos de PN0572 a PN0583  (+ PN1320)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[08h00 - 10h00 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão III  Área 8</Titulo>
+		<Sala>Sala: G</Sala>
+		<Trabalhos>Trabalhos de PN0584 a PN0594  (+ PN1320)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[10h15 - 12h30 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão III  Área 10</Titulo>
+		<Sala>Sala: H</Sala>
+		<Trabalhos>Trabalhos de PN0595 a PN0605  (+ PN1320)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[08h00 - 10h00 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão III  Área 10</Titulo>
+		<Sala>Sala: H</Sala>
+		<Trabalhos>Trabalhos de PN0606 a PN0616  (+ PN1320)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[10h15 - 12h30 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão III  Área 10</Titulo>
+		<Sala>Sala: I</Sala>
+		<Trabalhos>Trabalhos de PN0617 a PN0626  (+ PN1320)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[08h00 - 10h00 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão III  Área 10</Titulo>
+		<Sala>Sala: I</Sala>
+		<Trabalhos>Trabalhos de PN0627 a PN0636  (+ PN1320)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[10h15 - 12h30 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão III  Área 10</Titulo>
+		<Sala>Sala: J</Sala>
+		<Trabalhos>Trabalhos de PN0637 a PN0646  (+ PN1320)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[08h00 - 10h00 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão III  Área 10</Titulo>
+		<Sala>Sala: J</Sala>
+		<Trabalhos>Trabalhos de PN0647 a PN0656  (+ PN1320)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[10h15 - 12h30 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão V  Área 7</Titulo>
+		<Sala>Sala: Y</Sala>
+		<Trabalhos>Trabalhos de PI0373 a PI0373  (+ PN1320)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[08h00 - 08h30 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão VI  Área 1</Titulo>
+		<Sala>Sala: A</Sala>
+		<Trabalhos>Trabalhos de PN1085 a PN1094  (+ PN1320)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[14h00 - 16h00 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão VI  Área 1</Titulo>
+		<Sala>Sala: A</Sala>
+		<Trabalhos>Trabalhos de PN1095 a PN1102  (+ PN1320)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[16h15 - 18h30 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão VI  Área 1</Titulo>
+		<Sala>Sala: B</Sala>
+		<Trabalhos>Trabalhos de PN1103 a PN1112  (+ PN1320)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[14h00 - 16h00 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão VI  Área 1</Titulo>
+		<Sala>Sala: B</Sala>
+		<Trabalhos>Trabalhos de PN1113 a PN1120  (+ PN1320)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[16h15 - 18h30 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão VI  Área 2</Titulo>
+		<Sala>Sala: C</Sala>
+		<Trabalhos>Trabalhos de PN1121 a PN1131  (+ PN1320)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[14h00 - 16h00 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão VI  Área 2</Titulo>
+		<Sala>Sala: C</Sala>
+		<Trabalhos>Trabalhos de PN1132 a PN1142  (+ PN1320)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[16h15 - 18h30 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão VI  Área 2</Titulo>
+		<Sala>Sala: D</Sala>
+		<Trabalhos>Trabalhos de PN1143 a PN1153  (+ PN1320)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[14h00 - 16h00 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão VI  Área 2</Titulo>
+		<Sala>Sala: D</Sala>
+		<Trabalhos>Trabalhos de PN1154 a PN1164  (+ PN1320)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[16h15 - 18h30 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão VI  Área 2</Titulo>
+		<Sala>Sala: E</Sala>
+		<Trabalhos>Trabalhos de PN1165 a PN1175  (+ PN0476)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[14h00 - 16h00 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão VI  Área 2</Titulo>
+		<Sala>Sala: E</Sala>
+		<Trabalhos>Trabalhos de PN1176 a PN1186  (+ PN0476)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[16h15 - 18h30 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão VI  Área 2</Titulo>
+		<Sala>Sala: F</Sala>
+		<Trabalhos>Trabalhos de PN1187 a PN1196  (+ PN0505)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[14h00 - 16h00 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão VI  Área 2</Titulo>
+		<Sala>Sala: F</Sala>
+		<Trabalhos>Trabalhos de PN1197 a PN1205  (+ PN1315)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[16h15 - 18h30 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão VI  Área 8</Titulo>
+		<Sala>Sala: G</Sala>
+		<Trabalhos>Trabalhos de PN1206 a PN1217  (+ PN1315)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[14h00 - 16h00 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão VI  Área 8</Titulo>
+		<Sala>Sala: G</Sala>
+		<Trabalhos>Trabalhos de PN1218 a PN1229  (+ PN1315)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[16h15 - 18h30 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão VI  Área 8</Titulo>
+		<Sala>Sala: H</Sala>
+		<Trabalhos>Trabalhos de PN1230 a PN1241  (+ PN1315)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[14h00 - 16h00 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão VI  Área 8</Titulo>
+		<Sala>Sala: H</Sala>
+		<Trabalhos>Trabalhos de PN1242 a PN1252  (+ PN1319)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[16h15 - 18h30 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão VI  Área 10</Titulo>
+		<Sala>Sala: I</Sala>
+		<Trabalhos>Trabalhos de PN1253 a PN1263  (+ PN1319)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[14h00 - 16h00 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão VI  Área 10</Titulo>
+		<Sala>Sala: I</Sala>
+		<Trabalhos>Trabalhos de PN1264 a PN1273  (+ PN1319)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[16h15 - 18h30 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão VI  Área 10</Titulo>
+		<Sala>Sala: J</Sala>
+		<Trabalhos>Trabalhos de PN1274 a PN1283  (+ PN1319)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[14h00 - 16h00 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão VI  Área 10</Titulo>
+		<Sala>Sala: J</Sala>
+		<Trabalhos>Trabalhos de PN1284 a PN1293  (+ PN1319)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[16h15 - 18h30 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão VI  Área 10</Titulo>
+		<Sala>Sala: V</Sala>
+		<Trabalhos>Trabalhos de PN1294 a PN1303  (+ PN1319)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[14h00 - 16h00 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão VI  Área 10</Titulo>
+		<Sala>Sala: V</Sala>
+		<Trabalhos>Trabalhos de PN1304 a PN1313  (+ PN1319)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[16h15 - 18h30 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão V  Área 5</Titulo>
+		<Sala>Sala: A</Sala>
+		<Trabalhos>Trabalhos de PN0876 a PN0887  (+ PN1319)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[08h00 - 10h00 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão V  Área 5</Titulo>
+		<Sala>Sala: A</Sala>
+		<Trabalhos>Trabalhos de PN0888 a PN0899  (+ PN0332)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[10h15 - 12h30 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão V  Área 5</Titulo>
+		<Sala>Sala: B</Sala>
+		<Trabalhos>Trabalhos de PN0900 a PN0911  (+ PN0256)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[08h00 - 10h00 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão V  Área 5</Titulo>
+		<Sala>Sala: B</Sala>
+		<Trabalhos>Trabalhos de PN0912 a PN0923  (+ PN0256)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[10h15 - 12h30 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão V  Área 5</Titulo>
+		<Sala>Sala: C</Sala>
+		<Trabalhos>Trabalhos de PN0924 a PN0935  (+ PN0256)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[08h00 - 10h00 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão V  Área 5</Titulo>
+		<Sala>Sala: C</Sala>
+		<Trabalhos>Trabalhos de PN0936 a PN0947  (+ PN0256)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[10h15 - 12h30 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão V  Área 5</Titulo>
+		<Sala>Sala: D</Sala>
+		<Trabalhos>Trabalhos de PN0948 a PN0959  (+ PN0241)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[08h00 - 10h15 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão V  Área 5</Titulo>
+		<Sala>Sala: D</Sala>
+		<Trabalhos>Trabalhos de PN0960 a PN0971  (+ PN0241)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[10h15 - 12h30 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão V  Área 5</Titulo>
+		<Sala>Sala: E</Sala>
+		<Trabalhos>Trabalhos de PN0972 a PN0983  (+ PN0246)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[08h00 - 10h15 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão V  Área 5</Titulo>
+		<Sala>Sala: E</Sala>
+		<Trabalhos>Trabalhos de PN0984 a PN0994  (+ PN1318)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[10h15 - 12h30 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão V  Área 6</Titulo>
+		<Sala>Sala: F</Sala>
+		<Trabalhos>Trabalhos de PN0995 a PN1006  (+ PN1318)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[08h00 - 10h00 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão V  Área 6</Titulo>
+		<Sala>Sala: F</Sala>
+		<Trabalhos>Trabalhos de PN1007 a PN1018  (+ PN1318)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[10h15 - 12h30 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão V  Área 6</Titulo>
+		<Sala>Sala: G</Sala>
+		<Trabalhos>Trabalhos de PN1019 a PN1030  (+ PN1318)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[08h00 - 10h00 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão V  Área 6</Titulo>
+		<Sala>Sala: G</Sala>
+		<Trabalhos>Trabalhos de PN1031 a PN1041  (+ PN1318)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[10h15 - 12h30 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão V  Área 9</Titulo>
+		<Sala>Sala: H</Sala>
+		<Trabalhos>Trabalhos de PN1042 a PN1052  (+ PN1318)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[08h00 - 10h00 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão V  Área 9</Titulo>
+		<Sala>Sala: H</Sala>
+		<Trabalhos>Trabalhos de PN1053 a PN1063  (+ PN1318)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[10h15 - 12h30 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão V  Área 9</Titulo>
+		<Sala>Sala: I</Sala>
+		<Trabalhos>Trabalhos de PN1064 a PN1074  (+ PN1318)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[08h00 - 10h00 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Aspirante e Efetivo  - Sessão V  Área 9</Titulo>
+		<Sala>Sala: I</Sala>
+		<Trabalhos>Trabalhos de PN1075 a PN1084  (+ PN1318)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[10h15 - 12h30 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Iniciante  - Sessão I  Área 3</Titulo>
+		<Sala>Sala: N</Sala>
+		<Trabalhos>Trabalhos de PI0001 a PI0010  (+ PN1318)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[08h00 - 10h00 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Iniciante  - Sessão I  Área 3</Titulo>
+		<Sala>Sala: N</Sala>
+		<Trabalhos>Trabalhos de PI0011 a PI0020  (+ PN1318)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[10h15 - 12h30 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Iniciante  - Sessão I  Área 3</Titulo>
+		<Sala>Sala: O</Sala>
+		<Trabalhos>Trabalhos de PI0021 a PI0029  (+ PN1318)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[08h00 - 10h00 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Iniciante  - Sessão I  Área 3</Titulo>
+		<Sala>Sala: O</Sala>
+		<Trabalhos>Trabalhos de PI0030 a PI0038  (+ PN1318)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[10h15 - 12h30 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Iniciante  - Sessão I  Área 4</Titulo>
+		<Sala>Sala: P</Sala>
+		<Trabalhos>Trabalhos de PI0039 a PI0049  (+ PN1318)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[08h00 - 10h00 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Iniciante  - Sessão I  Área 4</Titulo>
+		<Sala>Sala: P</Sala>
+		<Trabalhos>Trabalhos de PI0050 a PI0060  (+ PN1318)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[10h15 - 12h30 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Iniciante  - Sessão I  Área 4</Titulo>
+		<Sala>Sala: Q</Sala>
+		<Trabalhos>Trabalhos de PI0061 a PI0071  (+ PN1318)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[08h00 - 10h00 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Iniciante  - Sessão I  Área 4</Titulo>
+		<Sala>Sala: Q</Sala>
+		<Trabalhos>Trabalhos de PI0072 a PI0081  (+ PN1318)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[10h15 - 12h30 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Iniciante  - Sessão I  Área 4</Titulo>
+		<Sala>Sala: U</Sala>
+		<Trabalhos>Trabalhos de PI0082 a PI0091  (+ PN1318)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[08h00 - 10h00 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Iniciante  - Sessão I  Área 4</Titulo>
+		<Sala>Sala: U</Sala>
+		<Trabalhos>Trabalhos de PI0092 a PI0101  (+ PN1318)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[10h15 - 12h30 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Iniciante  - Sessão I  Área 7</Titulo>
+		<Sala>Sala: V</Sala>
+		<Trabalhos>Trabalhos de PI0102 a PI0111  (+ PN1318)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[08h00 - 10h00 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Iniciante  - Sessão I  Área 7</Titulo>
+		<Sala>Sala: V</Sala>
+		<Trabalhos>Trabalhos de PI0112 a PI0119  (+ PN1318)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[10h15 - 12h30 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Iniciante  - Sessão II  Área 1</Titulo>
+		<Sala>Sala: P</Sala>
+		<Trabalhos>Trabalhos de PI0120 a PI0129  (+ PN1318)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[14h00 - 16h00 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Iniciante  - Sessão II  Área 1</Titulo>
+		<Sala>Sala: P</Sala>
+		<Trabalhos>Trabalhos de PI0130 a PI0136  (+ PN1318)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[14h00 - 16h00 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Iniciante  - Sessão II  Área 5</Titulo>
+		<Sala>Sala: N</Sala>
+		<Trabalhos>Trabalhos de PI0137 a PI0147  (+ PN1318)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[14h00 - 16h00 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Iniciante  - Sessão II  Área 5</Titulo>
+		<Sala>Sala: N</Sala>
+		<Trabalhos>Trabalhos de PI0148 a PI0158  (+ PN1318)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[16h15 - 18h30 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Iniciante  - Sessão II  Área 5</Titulo>
+		<Sala>Sala: O</Sala>
+		<Trabalhos>Trabalhos de PI0159 a PI0169  (+ PN1318)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[14h00 - 16h00 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Iniciante  - Sessão II  Área 5</Titulo>
+		<Sala>Sala: O</Sala>
+		<Trabalhos>Trabalhos de PI0170 a PI0180  (+ PN1318)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[16h15 - 18h30 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Iniciante  - Sessão II  Área 8</Titulo>
+		<Sala>Sala: Q</Sala>
+		<Trabalhos>Trabalhos de PI0181 a PI0187  (+ PN1318)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[14h00 - 16h00 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Iniciante  - Sessão II  Área 8</Titulo>
+		<Sala>Sala: Q</Sala>
+		<Trabalhos>Trabalhos de PI0188 a PI0194  (+ PN1318)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[16h15 - 18h30 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Iniciante  - Sessão III  Área 2</Titulo>
+		<Sala>Sala: N</Sala>
+		<Trabalhos>Trabalhos de PI0195 a PI0205  (+ PN1318)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[08h00 - 10h00 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Iniciante  - Sessão III  Área 2</Titulo>
+		<Sala>Sala: N</Sala>
+		<Trabalhos>Trabalhos de PI0206 a PI0215  (+ PN1318)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[10h15 - 12h30 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Iniciante  - Sessão III  Área 6</Titulo>
+		<Sala>Sala: R</Sala>
+		<Trabalhos>Trabalhos de PI0216 a PI0227  (+ PN1318)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[08h00 - 10h00 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Iniciante  - Sessão III  Área 6</Titulo>
+		<Sala>Sala: R</Sala>
+		<Trabalhos>Trabalhos de PI0228 a PI0238  (+ PI0578)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[10h15 - 12h30 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Iniciante  - Sessão III  Área 9</Titulo>
+		<Sala>Sala: O</Sala>
+		<Trabalhos>Trabalhos de PI0239 a PI0247  (+ PI0578)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[08h00 - 10h00 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Iniciante  - Sessão III  Área 9</Titulo>
+		<Sala>Sala: O</Sala>
+		<Trabalhos>Trabalhos de PI0248 a PI0256  (+ PI0578)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[10h15 - 12h30 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Iniciante  - Sessão III  Área 9</Titulo>
+		<Sala>Sala: P</Sala>
+		<Trabalhos>Trabalhos de PI0257 a PI0265  (+ PI0578)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[08h00 - 10h00 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Iniciante  - Sessão III  Área 9</Titulo>
+		<Sala>Sala: P</Sala>
+		<Trabalhos>Trabalhos de PI0266 a PI0274  (+ PI0578)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[10h15 - 12h30 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Iniciante  - Sessão III  Área 10</Titulo>
+		<Sala>Sala: Q</Sala>
+		<Trabalhos>Trabalhos de PI0275 a PI0284  (+ PI0578)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[08h00 - 10h00 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Iniciante  - Sessão III  Área 10</Titulo>
+		<Sala>Sala: Q</Sala>
+		<Trabalhos>Trabalhos de PI0285 a PI0292  (+ PI0578)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[10h15 - 12h30 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Iniciante  - Sessão IV  Área 3</Titulo>
+		<Sala>Sala: O</Sala>
+		<Trabalhos>Trabalhos de PI0293 a PI0302  (+ PI0578)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[14h00 - 16h00 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Iniciante  - Sessão IV  Área 3</Titulo>
+		<Sala>Sala: O</Sala>
+		<Trabalhos>Trabalhos de PI0303 a PI0312  (+ PI0578)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[14h00 - 16h00 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Iniciante  - Sessão IV  Área 4</Titulo>
+		<Sala>Sala: P</Sala>
+		<Trabalhos>Trabalhos de PI0313 a PI0323  (+ PI0578)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[14h00 - 16h00 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Iniciante  - Sessão IV  Área 4</Titulo>
+		<Sala>Sala: P</Sala>
+		<Trabalhos>Trabalhos de PI0324 a PI0333  (+ PI0578)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[16h15 - 18h30 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Iniciante  - Sessão IV  Área 4</Titulo>
+		<Sala>Sala: Q</Sala>
+		<Trabalhos>Trabalhos de PI0334 a PI0344  (+ PI0578)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[14h00 - 16h00 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Iniciante  - Sessão IV  Área 4</Titulo>
+		<Sala>Sala: Q</Sala>
+		<Trabalhos>Trabalhos de PI0345 a PI0354  (+ PI0578)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[16h15 - 18h30 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Iniciante  - Sessão IV  Área 7</Titulo>
+		<Sala>Sala: R</Sala>
+		<Trabalhos>Trabalhos de PI0355 a PI0365  (+ PI0578)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[14h00 - 16h00 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Iniciante  - Sessão IV  Área 7</Titulo>
+		<Sala>Sala: R</Sala>
+		<Trabalhos>Trabalhos de PI0366 a PI0375  (+ PI0578)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[16h15 - 18h30 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Iniciante  - Sessão V  Área 1</Titulo>
+		<Sala>Sala: Q</Sala>
+		<Trabalhos>Trabalhos de PI0376 a PI0385  (+ PI0578)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[08h00 - 10h00 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Iniciante  - Sessão V  Área 1</Titulo>
+		<Sala>Sala: Q</Sala>
+		<Trabalhos>Trabalhos de PI0386 a PI0392  (+ PI0578)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[10h15 - 12h30 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Iniciante  - Sessão V  Área 5</Titulo>
+		<Sala>Sala: N</Sala>
+		<Trabalhos>Trabalhos de PI0393 a PI0403  (+ PI0578)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[08h00 - 10h00 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Iniciante  - Sessão V  Área 5</Titulo>
+		<Sala>Sala: N</Sala>
+		<Trabalhos>Trabalhos de PI0404 a PI0414  (+ PI0578)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[10h15 - 12h30 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Iniciante  - Sessão V  Área 5</Titulo>
+		<Sala>Sala: O</Sala>
+		<Trabalhos>Trabalhos de PI0415 a PI0425  (+ PI0578)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[08h00 - 10h00 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Iniciante  - Sessão V  Área 5</Titulo>
+		<Sala>Sala: O</Sala>
+		<Trabalhos>Trabalhos de PI0426 a PI0436  (+ PI0578)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[10h15 - 12h30 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Iniciante  - Sessão V  Área 5</Titulo>
+		<Sala>Sala: P</Sala>
+		<Trabalhos>Trabalhos de PI0437 a PI0447  (+ PI0578)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[08h00 - 10h00 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Iniciante  - Sessão V  Área 5</Titulo>
+		<Sala>Sala: P</Sala>
+		<Trabalhos>Trabalhos de PI0448 a PI0457  (+ PI0571)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[10h15 - 12h30 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Iniciante  - Sessão V  Área 8</Titulo>
+		<Sala>Sala: R</Sala>
+		<Trabalhos>Trabalhos de PI0458 a PI0464  (+ PI0571)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[08h00 - 10h00 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Iniciante  - Sessão V  Área 8</Titulo>
+		<Sala>Sala: R</Sala>
+		<Trabalhos>Trabalhos de PI0465 a PI0471  (+ PI0576)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[10h15 - 12h30 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Iniciante  - Sessão VI  Área 2</Titulo>
+		<Sala>Sala: N</Sala>
+		<Trabalhos>Trabalhos de PI0472 a PI0481  (+ PI0576)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[14h00 - 16h00 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Iniciante  - Sessão VI  Área 2</Titulo>
+		<Sala>Sala: N</Sala>
+		<Trabalhos>Trabalhos de PI0482 a PI0491  (+ PI0576)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[16h15 - 18h30 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Iniciante  - Sessão VI  Área 2</Titulo>
+		<Sala>Sala: O</Sala>
+		<Trabalhos>Trabalhos de PI0492 a PI0501  (+ PI0576)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[14h00 - 16h00 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Iniciante  - Sessão VI  Área 2</Titulo>
+		<Sala>Sala: O</Sala>
+		<Trabalhos>Trabalhos de PI0502 a PI0510  (+ PI0576)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[16h15 - 18h30 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Iniciante  - Sessão VI  Área 6</Titulo>
+		<Sala>Sala: P</Sala>
+		<Trabalhos>Trabalhos de PI0511 a PI0522  (+ PI0576)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[14h00 - 16h00 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Iniciante  - Sessão VI  Área 6</Titulo>
+		<Sala>Sala: P</Sala>
+		<Trabalhos>Trabalhos de PI0523 a PI0534  (+ PI0576)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[16h15 - 18h30 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Iniciante  - Sessão VI  Área 9</Titulo>
+		<Sala>Sala: Q</Sala>
+		<Trabalhos>Trabalhos de PI0535 a PI0544  (+ PI0570)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[14h00 - 16h00 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Iniciante  - Sessão VI  Área 9</Titulo>
+		<Sala>Sala: Q</Sala>
+		<Trabalhos>Trabalhos de PI0545 a PI0554  (+ PI0574)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[16h15 - 18h30 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Iniciante  - Sessão VI  Área 10</Titulo>
+		<Sala>Sala: R</Sala>
+		<Trabalhos>Trabalhos de PI0555 a PI0562  (+ PI0574)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[14h00 - 16h00 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Iniciante  - Sessão VI  Área 10</Titulo>
+		<Sala>Sala: R</Sala>
+		<Trabalhos>Trabalhos de PI0563 a PI0569  (+ PI0574)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[16h15 - 18h30 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Pesquisa Dentro da Indústria  - Sessão VI  Área 10</Titulo>
+		<Sala>Sala: V</Sala>
+		<Trabalhos>Trabalhos de PDI001 a PDI002  (+ PI0574)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[10h15 - 12h30 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Revisão Sistemática  - Sessão II  Área 10</Titulo>
+		<Sala>Sala: X</Sala>
+		<Trabalhos>Trabalhos de RS021 a RS030  (+ PI0574)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[14h00 - 16h00 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Revisão Sistemática  - Sessão II  Área 10</Titulo>
+		<Sala>Sala: X</Sala>
+		<Trabalhos>Trabalhos de RS031 a RS040  (+ PI0574)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[16h15 - 18h30 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Revisão Sistemática  - Sessão I  Área 10</Titulo>
+		<Sala>Sala: X</Sala>
+		<Trabalhos>Trabalhos de RS001 a RS010  (+ PI0574)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[08h00 - 10h00 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Revisão Sistemática  - Sessão I  Área 10</Titulo>
+		<Sala>Sala: X</Sala>
+		<Trabalhos>Trabalhos de RS011 a RS020  (+ RS086)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[10h15 - 12h30 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Revisão Sistemática  - Sessão III  Área 10</Titulo>
+		<Sala>Sala: X</Sala>
+		<Trabalhos>Trabalhos de RS041 a RS050  (+ RS086)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[08h00 - 10h00 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Revisão Sistemática  - Sessão III  Área 10</Titulo>
+		<Sala>Sala: X</Sala>
+		<Trabalhos>Trabalhos de RS051 a RS060  (+ RS086)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[10h15 - 12h30 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Revisão Sistemática  - Sessão IV  Área 10</Titulo>
+		<Sala>Sala: X</Sala>
+		<Trabalhos>Trabalhos de RS061 a RS070  (+ RS086)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[14h00 - 16h00 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Revisão Sistemática  - Sessão IV  Área 10</Titulo>
+		<Sala>Sala: X</Sala>
+		<Trabalhos>Trabalhos de RS071 a RS080  (+ RS086)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[16h15 - 18h30 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Revisão Sistemática  - Sessão V  Área 10</Titulo>
+		<Sala>Sala: X</Sala>
+		<Trabalhos>Trabalhos de RS081 a RS090  (+ RS086)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[08h00 - 10h00 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Revisão Sistemática  - Sessão V  Área 10</Titulo>
+		<Sala>Sala: X</Sala>
+		<Trabalhos>Trabalhos de RS091 a RS100  (+ RS086)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[10h15 - 12h30 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Revisão Sistemática  - Sessão VI  Área 10</Titulo>
+		<Sala>Sala: X</Sala>
+		<Trabalhos>Trabalhos de RS101 a RS110  (+ RS086)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[14h00 - 16h00 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Painel Revisão Sistemática  - Sessão VI  Área 10</Titulo>
+		<Sala>Sala: X</Sala>
+		<Trabalhos>Trabalhos de RS111 a RS120  (+ RS086)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[16h15 - 18h30 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Pesquisa em Ensino  - Sessão VI  Área 10</Titulo>
+		<Sala>Sala: T</Sala>
+		<Trabalhos>Trabalhos de PE001 a PE010  (+ RS086)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[08h00 - 10h00 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Pesquisa em Ensino  - Sessão VI  Área 10</Titulo>
+		<Sala>Sala: T</Sala>
+		<Trabalhos>Trabalhos de PE011 a PE017  (+ RS086)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[10h15 - 12h30 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Pesquisa em Ensino  - Sessão VI  Área 10</Titulo>
+		<Sala>Sala: T</Sala>
+		<Trabalhos>Trabalhos de PE018 a PE025  (+ PE010)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[14h00 - 16h00 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Pesquisa em Ensino  - Sessão VI  Área 10</Titulo>
+		<Sala>Sala: T</Sala>
+		<Trabalhos>Trabalhos de PE026 a PE033  (+ PE010)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[16h15 - 18h30 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>POAC  - Sessão VI  Área 10</Titulo>
+		<Sala>Sala: T</Sala>
+		<Trabalhos>Trabalhos de PO001 a PO012  (+ PE010)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[14h00 - 16h00 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>POAC  - Sessão VI  Área 10</Titulo>
+		<Sala>Sala: T</Sala>
+		<Trabalhos>Trabalhos de PO013 a PO024  (+ PE010)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[16h15 - 18h30 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Prêmio Colgate Odontologia Preventiva  - Sessão VI  Área 10</Titulo>
+		<Sala>Sala: Z</Sala>
+		<Trabalhos>Trabalhos de COL007 a COL009  (+ PE010)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[14h00 - 16h00 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Prêmio Colgate Odontologia Preventiva  - Sessão VI  Área 10</Titulo>
+		<Sala>Sala: Z</Sala>
+		<Trabalhos>Trabalhos de COL010 a COL011  (+ PE010)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[16h15 - 18h30 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Prêmio Colgate Odontologia Preventiva  - Sessão VI  Área 10</Titulo>
+		<Sala>Sala: Z</Sala>
+		<Trabalhos>Trabalhos de COL001 a COL003  (+ PE010)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[08h00 - 10h00 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Prêmio Colgate Odontologia Preventiva  - Sessão VI  Área 10</Titulo>
+		<Sala>Sala: Z</Sala>
+		<Trabalhos>Trabalhos de COL004 a COL006  (+ PE010)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[10h15 - 12h30 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Prêmio DMG Odontologia Minimamente Invasiva  - Sessão VI  Área 10</Titulo>
+		<Sala>Sala: V</Sala>
+		<Trabalhos>Trabalhos de DMG001 a DMG003  (+ PE010)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[14h00 - 16h00 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Prêmio DMG Odontologia Minimamente Invasiva  - Sessão VI  Área 10</Titulo>
+		<Sala>Sala: V</Sala>
+		<Trabalhos>Trabalhos de DMG004 a DMG006  (+ PE010)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[16h15 - 18h30 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Prêmio DMG Odontologia Minimamente Invasiva  - Sessão VI  Área 10</Titulo>
+		<Sala>Sala: V</Sala>
+		<Trabalhos>Trabalhos de DMG007 a DMG009  (+ PE010)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[08h00 - 10h00 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Prêmio DMG Odontologia Minimamente Invasiva  - Sessão VI  Área 10</Titulo>
+		<Sala>Sala: V</Sala>
+		<Trabalhos>Trabalhos de DMG010 a DMG012  (+ PE010)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[10h15 - 12h30 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Prêmio DMG Odontologia Minimamente Invasiva  - Sessão VI  Área 10</Titulo>
+		<Sala>Sala: V</Sala>
+		<Trabalhos>Trabalhos de DMG013 a DMG015  (+ PE010)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[14h00 - 16h00 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Prêmio DMG Odontologia Minimamente Invasiva  - Sessão VI  Área 10</Titulo>
+		<Sala>Sala: V</Sala>
+		<Trabalhos>Trabalhos de DMG016 a DMG018  (+ PE010)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[16h15 - 18h30 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Prêmio DMG Odontologia Minimamente Invasiva  - Sessão VI  Área 10</Titulo>
+		<Sala>Sala: V</Sala>
+		<Trabalhos>Trabalhos de DMG019 a DMG020  (+ PE010)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[08h00 - 10h00 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Prêmio LAOHA  - Sessão VI  Área 10</Titulo>
+		<Sala>Sala: T</Sala>
+		<Trabalhos>Trabalhos de LH001 a LH011  (+ PE010)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[08h00 - 10h00 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Prêmio LAOHA  - Sessão VI  Área 10</Titulo>
+		<Sala>Sala: T</Sala>
+		<Trabalhos>Trabalhos de LH012 a LH021  (+ PE010)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[10h15 - 12h30 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Projeto de Pesquisa  - Sessão VI  Área 4</Titulo>
+		<Sala>Sala: S</Sala>
+		<Trabalhos>Trabalhos de PRJ0001 a PRJ0005  (+ PE010)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[08h00 - 09h00 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Projeto de Pesquisa  - Sessão VI  Área 4</Titulo>
+		<Sala>Sala: S</Sala>
+		<Trabalhos>Trabalhos de PRJ0006 a PRJ0009  (+ PE010)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[09h00 - 10h00 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Projeto de Pesquisa  - Sessão VI  Área 4</Titulo>
+		<Sala>Sala: S</Sala>
+		<Trabalhos>Trabalhos de PRJ0010 a PRJ0013  (+ PE010)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[10h15 - 11h15 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Projeto de Pesquisa  - Sessão VI  Área 4</Titulo>
+		<Sala>Sala: S</Sala>
+		<Trabalhos>Trabalhos de PRJ0014 a PRJ0016  (+ PRJ0002)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[11h15 - 12h15 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Projeto de Pesquisa  - Sessão VI  Área 2</Titulo>
+		<Sala>Sala: W</Sala>
+		<Trabalhos>Trabalhos de PRJ0017 a PRJ0019  (+ PRJ0002)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[08h00 - 09h00 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Projeto de Pesquisa  - Sessão VI  Área 2</Titulo>
+		<Sala>Sala: W</Sala>
+		<Trabalhos>Trabalhos de PRJ0020 a PRJ0022  (+ PRJ0002)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[09h00 - 10h00 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Projeto de Pesquisa  - Sessão VI  Área 7</Titulo>
+		<Sala>Sala: Y</Sala>
+		<Trabalhos>Trabalhos de PRJ0023 a PRJ0026  (+ PRJ0002)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[08h00 - 09h00 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Projeto de Pesquisa  - Sessão VI  Área 7</Titulo>
+		<Sala>Sala: Y</Sala>
+		<Trabalhos>Trabalhos de PRJ0027 a PRJ0030  (+ PRJ0002)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[09h00 - 10h00 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Projeto de Pesquisa  - Sessão VI  Área 7</Titulo>
+		<Sala>Sala: Y</Sala>
+		<Trabalhos>Trabalhos de PRJ0031 a PRJ0032  (+ PRJ0002)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[10h15 - 10h45 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Projeto de Pesquisa  - Sessão VI  Área 1</Titulo>
+		<Sala>Sala: W</Sala>
+		<Trabalhos>Trabalhos de PRJ0033 a PRJ0036  (+ PRJ0002)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[14h00 - 15h00 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Projeto de Pesquisa  - Sessão VI  Área 1</Titulo>
+		<Sala>Sala: W</Sala>
+		<Trabalhos>Trabalhos de PRJ0037 a PRJ0040  (+ PRJ0002)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[15h00 - 16h00 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Projeto de Pesquisa  - Sessão VI  Área 1</Titulo>
+		<Sala>Sala: W</Sala>
+		<Trabalhos>Trabalhos de PRJ0041 a PRJ0045  (+ PRJ0002)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[16h15 - 17h30 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Projeto de Pesquisa  - Sessão VI  Área 8</Titulo>
+		<Sala>Sala: S</Sala>
+		<Trabalhos>Trabalhos de PRJ0046 a PRJ0049  (+ PRJ0002)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[14h00 - 15h00 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Projeto de Pesquisa  - Sessão VI  Área 8</Titulo>
+		<Sala>Sala: S</Sala>
+		<Trabalhos>Trabalhos de PRJ0050 a PRJ0053  (+ PRJ0002)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[15h00 - 16h00 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Projeto de Pesquisa  - Sessão VI  Área 8</Titulo>
+		<Sala>Sala: S</Sala>
+		<Trabalhos>Trabalhos de PRJ0054 a PRJ0057  (+ PRJ0002)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[16h15 - 17h15 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Projeto de Pesquisa  - Sessão VI  Área 8</Titulo>
+		<Sala>Sala: S</Sala>
+		<Trabalhos>Trabalhos de PRJ0058 a PRJ0061  (+ PRJ0002)</Trabalhos>
+		<Dia><![CDATA[09/09/2020 (Quarta-feira)]]></Dia>
+		<Horario><![CDATA[17h15 - 18h15 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Projeto de Pesquisa  - Sessão VI  Área 9</Titulo>
+		<Sala>Sala: S</Sala>
+		<Trabalhos>Trabalhos de PRJ0062 a PRJ0065  (+ PRJ0002)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[08h00 - 09h00 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Projeto de Pesquisa  - Sessão VI  Área 9</Titulo>
+		<Sala>Sala: S</Sala>
+		<Trabalhos>Trabalhos de PRJ0066 a PRJ0069  (+ PRJ0002)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[09h00 - 10h00 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Projeto de Pesquisa  - Sessão VI  Área 9</Titulo>
+		<Sala>Sala: S</Sala>
+		<Trabalhos>Trabalhos de PRJ0070 a PRJ0072  (+ PRJ0002)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[10h15 - 11h00 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Projeto de Pesquisa  - Sessão VI  Área 5</Titulo>
+		<Sala>Sala: W</Sala>
+		<Trabalhos>Trabalhos de PRJ0073 a PRJ0076  (+ PRJ0002)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[14h00 - 15h00 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Projeto de Pesquisa  - Sessão VI  Área 5</Titulo>
+		<Sala>Sala: W</Sala>
+		<Trabalhos>Trabalhos de PRJ0077 a PRJ0080  (+ PRJ0002)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[15h00 - 16h00 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Projeto de Pesquisa  - Sessão VI  Área 5</Titulo>
+		<Sala>Sala: W</Sala>
+		<Trabalhos>Trabalhos de PRJ0081 a PRJ0084  (+ PRJ0131)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[16h15 - 17h30 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Projeto de Pesquisa  - Sessão VI  Área 6</Titulo>
+		<Sala>Sala: S</Sala>
+		<Trabalhos>Trabalhos de PRJ0085 a PRJ0088  (+ PRJ0131)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[14h00 - 15h00 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Projeto de Pesquisa  - Sessão VI  Área 6</Titulo>
+		<Sala>Sala: S</Sala>
+		<Trabalhos>Trabalhos de PRJ0089 a PRJ0092  (+ PRJ0131)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[15h00 - 16h00 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Projeto de Pesquisa  - Sessão VI  Área 6</Titulo>
+		<Sala>Sala: S</Sala>
+		<Trabalhos>Trabalhos de PRJ0093 a PRJ0096  (+ PRJ0131)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[16h15 - 17h15 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Projeto de Pesquisa  - Sessão VI  Área 6</Titulo>
+		<Sala>Sala: S</Sala>
+		<Trabalhos>Trabalhos de PRJ0097 a PRJ0100  (+ PRJ0131)</Trabalhos>
+		<Dia><![CDATA[10/09/2020 (Quinta-feira)]]></Dia>
+		<Horario><![CDATA[17h15 - 18h15 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Projeto de Pesquisa  - Sessão VI  Área 3</Titulo>
+		<Sala>Sala: S</Sala>
+		<Trabalhos>Trabalhos de PRJ0101 a PRJ0104  (+ PRJ0131)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[08h00 - 09h00 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Projeto de Pesquisa  - Sessão VI  Área 3</Titulo>
+		<Sala>Sala: S</Sala>
+		<Trabalhos>Trabalhos de PRJ0105 a PRJ0109  (+ PRJ0131)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[09h00 - 10h15 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Projeto de Pesquisa  - Sessão VI  Área 6</Titulo>
+		<Sala>Sala: S</Sala>
+		<Trabalhos>Trabalhos de PRJ0110 a PRJ0114  (+ PRJ0091)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[11h00 - 12h00 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Projeto de Pesquisa  - Sessão VI  Área 4</Titulo>
+		<Sala>Sala: S</Sala>
+		<Trabalhos>Trabalhos de PRJ0115 a PRJ0118  (+ PRJ0091)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[14h00 - 15h00 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Projeto de Pesquisa  - Sessão VI  Área 4</Titulo>
+		<Sala>Sala: S</Sala>
+		<Trabalhos>Trabalhos de PRJ0119 a PRJ0120  (+ PRJ0091)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[15h00 - 16h00 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Projeto de Pesquisa  - Sessão VI  Área 10</Titulo>
+		<Sala>Sala: W</Sala>
+		<Trabalhos>Trabalhos de PRJ0121 a PRJ0124  (+ PRJ0091)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[14h00 - 15h00 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Projeto de Pesquisa  - Sessão VI  Área 10</Titulo>
+		<Sala>Sala: W</Sala>
+		<Trabalhos>Trabalhos de PRJ0125 a PRJ0128  (+ PRJ0091)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[15h00 - 16h00 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Projeto de Pesquisa  - Sessão VI  Área 10</Titulo>
+		<Sala>Sala: W</Sala>
+		<Trabalhos>Trabalhos de PRJ0129 a PRJ0132  (+ PRJ0123)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[16h15 - 17h15 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Projeto de Pesquisa  - Sessão VI  Área 10</Titulo>
+		<Sala>Sala: Y</Sala>
+		<Trabalhos>Trabalhos de PRJ0090 a PRJ0090  (+ PRJ0123)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 ()]]></Dia>
+		<Horario><![CDATA[09h45 - 10h00 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>Projeto de Pesquisa  - Sessão VI  Área 10</Titulo>
+		<Sala>Sala: Y</Sala>
+		<Trabalhos>Trabalhos de PRJ0091 a PRJ0091  (+ PRJ0123)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 ()]]></Dia>
+		<Horario><![CDATA[11h00 - 11h15 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>TCC  - Sessão VI  Área 10</Titulo>
+		<Sala>Sala: T</Sala>
+		<Trabalhos>Trabalhos de TCC019 a TCC026  (+ PRJ0123)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[14h00 - 16h00 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>TCC  - Sessão VI  Área 10</Titulo>
+		<Sala>Sala: T</Sala>
+		<Trabalhos>Trabalhos de TCC027 a TCC034  (+ PRJ0123)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[16h15 - 18h30 (Tarde)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>TCC  - Sessão VI  Área 10</Titulo>
+		<Sala>Sala: T</Sala>
+		<Trabalhos>Trabalhos de TCC001 a TCC009  (+ PRJ0123)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[08h00 - 10h00 (Manhã)]]></Horario>
+	</Apresentacao>
+	<Apresentacao>
+		<Titulo>TCC  - Sessão VI  Área 10</Titulo>
+		<Sala>Sala: T</Sala>
+		<Trabalhos>Trabalhos de TCC010 a TCC018  (+ PRJ0123)</Trabalhos>
+		<Dia><![CDATA[11/09/2020 (Sexta-feira)]]></Dia>
+		<Horario><![CDATA[10h15 - 12h30 (Manhã)]]></Horario>
+	</Apresentacao>
+</Cronograma>

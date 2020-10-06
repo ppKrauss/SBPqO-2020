@@ -1,0 +1,976 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Programacao xmlns:xsd="https://www.w3.org/2001/XMLSchema" xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance">
+	<Informacoes>
+		<Dia>08/09</Dia>
+		<Semana></Semana>
+		<Horario>14h00</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[<strong>REUNIÃO CAPES</strong><br><br>  <strong>Coordenação:</strong> Profa Dra Altair A Del Bel Cury - FOP/UNICAMP<br><br>  <strong>Moderador:</strong> Prof. Dr. Manoel Sousa Neto -FORP/USP</strong><br><br>  <strong>Seminário: Inovação no Contexto da Pós-graduação em Odontologia  "EMPREENDEDORISMO, INOVAÇÃO e a PESQUISA em ODONTOLOGIA" </strong>- Prof. Dr. Josealdo Tonholo - Reitor da Universidade Federal de Alagoas<br><br></strong>  <strong>"SISTEMAS de GESTÃO da QUALIDADE (SGQ) e seu IMPACTO NA REPRODUTIBILIDADE e OFERTA de SERVIÇOS: OPORTUNIDADES para os PROGRAMAS de PÓS-GRADUAÇÃO"</strong><br>- Prof. Dr. José Mauro Granjeiro, Inmetro<br><br>  <strong>"Verticalizaçao de pesquisa e geração de inovação - um paralelo entre o estado da arte e o estado da técnica"</strong>- Prof. Dr. Rafael Cisne, UFF<br><br>  <strong></strong>]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>08/09</Dia>
+		<Semana></Semana>
+		<Horario>17h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Reunião Avaliadores]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>09/09</Dia>
+		<Semana></Semana>
+		<Horario>08h00 - 12h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Painel Aspirante e Efetivo - Área 4  (Sessão I)]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>09/09</Dia>
+		<Semana></Semana>
+		<Horario>08h00 - 12h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Painel Aspirante e Efetivo - Área 7  (Sessão I)]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>09/09</Dia>
+		<Semana></Semana>
+		<Horario>08h00 - 12h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Painel Iniciante - Área 3  (Sessão I)]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>09/09</Dia>
+		<Semana></Semana>
+		<Horario>08h00 - 12h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Painel Iniciante - Área 4   (Sessão I)]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>09/09</Dia>
+		<Semana></Semana>
+		<Horario>08h00 - 12h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Painel Iniciante - Área 7  (Sessão I)]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>09/09</Dia>
+		<Semana></Semana>
+		<Horario>08h00 - 12h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Apresentação Oral - Área 5  (Sessão I)]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>09/09</Dia>
+		<Semana></Semana>
+		<Horario>08h00 - 12h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Apresentação Oral - Área 6  (Sessão I)]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>09/09</Dia>
+		<Semana></Semana>
+		<Horario>08h00 - 12h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Apresentação Oral - Área 9 (Sessão I)]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>09/09</Dia>
+		<Semana></Semana>
+		<Horario>08h00 - 12h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Painel Aspirante e Efetivo - Área 3 (Sessão I)]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>09/09</Dia>
+		<Semana></Semana>
+		<Horario>08h00 - 12h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Prêmio Colgate Odontologia Preventiva (COL001 a COL006)]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>09/09</Dia>
+		<Semana></Semana>
+		<Horario>08h00 - 12h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Painel Revisão Sistemática (Sessão I)]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>09/09</Dia>
+		<Semana></Semana>
+		<Horario>08h00 - 10h00</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Prêmio LAOHA (LH001 a LH021)]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>09/09</Dia>
+		<Semana></Semana>
+		<Horario>08h00 - 12h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Projeto de Pesquisa - Área 2]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>09/09</Dia>
+		<Semana></Semana>
+		<Horario>08h00 - 12h15</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Projeto de Pesquisa - Área 4]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>09/09</Dia>
+		<Semana></Semana>
+		<Horario>08h00 - 10h45</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Projeto de Pesquisa - Área 7]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>09/09</Dia>
+		<Semana></Semana>
+		<Horario>12h30 - 14h00</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Intervalo]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>09/09</Dia>
+		<Semana></Semana>
+		<Horario>14h00 - 18h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Apresentação Oral - Área 3 (Sessão II)]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>09/09</Dia>
+		<Semana></Semana>
+		<Horario>14h00 - 18h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Apresentação Oral - Área  4 (Sessão II)]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>09/09</Dia>
+		<Semana></Semana>
+		<Horario>14h00 - 18h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Apresentação Oral - Área 7 (Sessão II)]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>09/09</Dia>
+		<Semana></Semana>
+		<Horario>14h00 - 18h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Fórum Científico (FC001 a FC006)]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>09/09</Dia>
+		<Semana></Semana>
+		<Horario>14h00 - 18h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Painel Aspirante e Efetivo - Área 5 (Sessão II)]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>09/09</Dia>
+		<Semana></Semana>
+		<Horario>14h00 - 18h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Painel Aspirante e Efetivo - Área 6 (Sessão II)]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>09/09</Dia>
+		<Semana></Semana>
+		<Horario>14h00 - 18h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Painel Aspirante e Efetivo - Área 9 (Sessão II)]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>09/09</Dia>
+		<Semana></Semana>
+		<Horario>14h00 - 18h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Painel Iniciante - Área 1 (Sessão II)]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>09/09</Dia>
+		<Semana></Semana>
+		<Horario>14h00 - 18h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Painel Iniciante - Área 5 (Sessão II)]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>09/09</Dia>
+		<Semana></Semana>
+		<Horario>14h00 - 18h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Painel Iniciante - Área 8 (Sessão II)]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>09/09</Dia>
+		<Semana></Semana>
+		<Horario>14h00 - 18h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Painel Revisão Sistemática (Sessão II)]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>09/09</Dia>
+		<Semana></Semana>
+		<Horario>14h00 - 18h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[POAC (PO001 a PO024)]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>09/09</Dia>
+		<Semana></Semana>
+		<Horario>14h00 - 18h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Prêmio Colgate Odontologia Preventiva (COL007 a COL011)]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>09/09</Dia>
+		<Semana></Semana>
+		<Horario>14h00 - 18h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Prêmio DMG Odontologia Minimamente Invasiva (DMG001 a DMG006)]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>09/09</Dia>
+		<Semana></Semana>
+		<Horario>14h00 - 17h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Projeto de Pesquisa - Área 1]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>09/09</Dia>
+		<Semana></Semana>
+		<Horario>14h00 - 18h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Projeto de Pesquisa - Área 8]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>09/09</Dia>
+		<Semana></Semana>
+		<Horario>19h00 - 22h00</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Cerimônia de Abertura]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>10/09</Dia>
+		<Semana></Semana>
+		<Horario>08h00 - 12h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Painel Aspirante e Efetivo - Área 1 (Sessão III)]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>10/09</Dia>
+		<Semana></Semana>
+		<Horario>08h00 - 12h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Painel Aspirante e Efetivo - Área 2 (Sessão III)]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>10/09</Dia>
+		<Semana></Semana>
+		<Horario>08h00 - 12h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Painel Aspirante e Efetivo - Área 8 (Sessão III)]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>10/09</Dia>
+		<Semana></Semana>
+		<Horario>08h00 - 12h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Painel Aspirante e Efetivo - Área 10 (Sessão III)]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>10/09</Dia>
+		<Semana></Semana>
+		<Horario>08h00 - 12h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Painel Iniciante - Área 2 (Sessão III)]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>10/09</Dia>
+		<Semana></Semana>
+		<Horario>08h00 - 12h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Painel Iniciante - Área 9 (Sessão III)]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>10/09</Dia>
+		<Semana></Semana>
+		<Horario>08h00 - 12h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Painel Iniciante - Área 10 (Sessão III)]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>10/09</Dia>
+		<Semana></Semana>
+		<Horario>08h00 - 12h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Painel Revisão Sistemática (Sessão III)]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>10/09</Dia>
+		<Semana></Semana>
+		<Horario>08h00 - 12h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Apresentação Oral - Área 3 (Sessão III)]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>10/09</Dia>
+		<Semana></Semana>
+		<Horario>08h00 - 12h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Apresentação Oral - Área 4 (Sessão III)]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>10/09</Dia>
+		<Semana></Semana>
+		<Horario>08h00 - 12h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Apresentação Oral - Área 7 (Sessão III)]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>10/09</Dia>
+		<Semana></Semana>
+		<Horario>08h00 - 12h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Fórum Científico (FC007 a FC010)]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>10/09</Dia>
+		<Semana></Semana>
+		<Horario>08h00 - 12h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Hatton (HA001 a HA010)]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>10/09</Dia>
+		<Semana></Semana>
+		<Horario>08h00 - 12h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Pesquisa em Ensino (PE001 a PE017)]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>10/09</Dia>
+		<Semana></Semana>
+		<Horario>08h00 - 12h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Prêmio DMG Odontologia Minimamente Invasiva (DMG007 a DMG012)]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>10/09</Dia>
+		<Semana></Semana>
+		<Horario>08h00 - 11h00</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Projeto de Pesquisa- Área 9]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>10/09</Dia>
+		<Semana></Semana>
+		<Horario>12h30 - 14h00</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Intervalo]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>10/09</Dia>
+		<Semana></Semana>
+		<Horario>14h00 - 18h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Painel Aspirante e Efetivo - Área 3 (Sessão IV)]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>10/09</Dia>
+		<Semana></Semana>
+		<Horario>14h00 - 18h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Painel Aspirante e Efetivo - Área 4 (Sessão IV)]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>10/09</Dia>
+		<Semana></Semana>
+		<Horario>14h00 - 18h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Painel Aspirante e Efetivo - Área 7 (Sessão IV)]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>10/09</Dia>
+		<Semana></Semana>
+		<Horario>14h00 - 18h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Painel Iniciante - Área 3 (Sessão IV)]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>10/09</Dia>
+		<Semana></Semana>
+		<Horario>14h00 - 18h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Painel Iniciante - Área 4 (Sessão IV)]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>10/09</Dia>
+		<Semana></Semana>
+		<Horario>14h00 - 18h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Painel Iniciante - Área 7 (Sessão IV)]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>10/09</Dia>
+		<Semana></Semana>
+		<Horario>14h00 - 18h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Apresentação Oral - Área 1 (Sessão IV)]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>10/09</Dia>
+		<Semana></Semana>
+		<Horario>14h00 - 18h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Apresentação Oral - Área 2 (Sessão IV)]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>10/09</Dia>
+		<Semana></Semana>
+		<Horario>14h00 - 18h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Apresentação Oral - Área 8 (Sessão IV)]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>10/09</Dia>
+		<Semana></Semana>
+		<Horario>14h00 - 18h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Apresentação Oral - Área 10 (Sessão IV)]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>10/09</Dia>
+		<Semana></Semana>
+		<Horario>14h00 - 18h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Painel Revisão Sistemática (Sessão IV)]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>10/09</Dia>
+		<Semana></Semana>
+		<Horario>14h00 - 18h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Fórum Científico (FC013 a FC018)]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>10/09</Dia>
+		<Semana></Semana>
+		<Horario>14h00 - 18h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Hatton (HA011 a HA018)]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>10/09</Dia>
+		<Semana></Semana>
+		<Horario>14h00 - 18h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Pesquisa em Ensino (PE018 a PE033)]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>10/09</Dia>
+		<Semana></Semana>
+		<Horario>14h00 - 18h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Prêmio DMG Odontologia Minimamente Invasiva (DMG013 a DMG018)]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>10/09</Dia>
+		<Semana></Semana>
+		<Horario>14h00 - 17h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Projeto de Pesquisa - Área 5]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>10/09</Dia>
+		<Semana></Semana>
+		<Horario>14h00 - 18h15</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Projeto de Pesquisa - Área 6]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>11/09</Dia>
+		<Semana></Semana>
+		<Horario>08h00 - 12h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Painel Aspirante e Efetivo - Area 5 (Sessão V)]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>11/09</Dia>
+		<Semana></Semana>
+		<Horario>08h00 - 12h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Painel Aspirante e Efetivo - Area 6 (Sessão V)]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>11/09</Dia>
+		<Semana></Semana>
+		<Horario>08h00 - 12h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Painel Aspirante e Efetivo - Area 9 (Sessão V)]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>11/09</Dia>
+		<Semana></Semana>
+		<Horario>08h00 - 12h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Painel Iniciante - Area 1 (Sessão V)]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>11/09</Dia>
+		<Semana></Semana>
+		<Horario>08h00 - 12h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Painel Iniciante - Area 5 (Sessão V)]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>11/09</Dia>
+		<Semana></Semana>
+		<Horario>08h00 - 12h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Painel Iniciante - Area 8 (Sessão V)]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>11/09</Dia>
+		<Semana></Semana>
+		<Horario>08h00 - 12h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Apresentação Oral - Area 1 (Sessão V)]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>11/09</Dia>
+		<Semana></Semana>
+		<Horario>08h00 - 12h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Apresentação Oral - Area 2 (Sessão V)]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>11/09</Dia>
+		<Semana></Semana>
+		<Horario>08h00 - 12h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Apresentação Oral - Area 8 (Sessão V)]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>11/09</Dia>
+		<Semana></Semana>
+		<Horario>08h00 - 12h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Apresentação Oral - Area 10 (Sessão V)]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>11/09</Dia>
+		<Semana></Semana>
+		<Horario>08h00 - 12h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Painel Revisão Sistemática (Sessão V)]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>11/09</Dia>
+		<Semana></Semana>
+		<Horario>08h00 - 12h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Fórum Científico (FC019 a FC024)]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>11/09</Dia>
+		<Semana></Semana>
+		<Horario>08h00 - 12h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Hatton Fase II]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>11/09</Dia>
+		<Semana></Semana>
+		<Horario>10h15 - 12h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Painel Pesquisa Dentro da Indústria]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>11/09</Dia>
+		<Semana></Semana>
+		<Horario>08h00 - 10h00</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Prêmio DMG Odontologia Minimamente Invasiva (DMG019 a DMG020)]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>11/09</Dia>
+		<Semana></Semana>
+		<Horario>08h00 - 12h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[TCC (TCC001 a TCC018)]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>11/09</Dia>
+		<Semana></Semana>
+		<Horario>08h00 - 10h15</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Projeto de Pesquisa - Area 3]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>11/09</Dia>
+		<Semana></Semana>
+		<Horario>11h00 - 12h00</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Projeto de Pesquisa - Area 6]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>11/09</Dia>
+		<Semana></Semana>
+		<Horario>12h30 - 14h00</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Intervalo]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>11/09</Dia>
+		<Semana></Semana>
+		<Horario>14h00 - 18h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Painel Aspirante e Efetivo - Área 1 (Sessão VI)]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>11/09</Dia>
+		<Semana></Semana>
+		<Horario>14h00 - 18h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Painel Aspirante e Efetivo - Área 2 (Sessão VI)]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>11/09</Dia>
+		<Semana></Semana>
+		<Horario>14h00 - 18h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Painel Aspirante e Efetivo - Área 8 (Sessão VI)]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>11/09</Dia>
+		<Semana></Semana>
+		<Horario>14h00 - 18h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Painel Aspirante e Efetivo - Área 10 (Sessão VI)]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>11/09</Dia>
+		<Semana></Semana>
+		<Horario>14h00 - 18h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Painel Iniciante - Área 2 (Sessão VI)]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>11/09</Dia>
+		<Semana></Semana>
+		<Horario>14h00 - 18h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Painel Iniciante - Área 6 (Sessão VI)]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>11/09</Dia>
+		<Semana></Semana>
+		<Horario>14h00 - 18h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Painel Iniciante - Área 9 (Sessão VI)]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>11/09</Dia>
+		<Semana></Semana>
+		<Horario>14h00 - 18h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Painel Iniciante - Área 10 (Sessão VI)]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>11/09</Dia>
+		<Semana></Semana>
+		<Horario>14h00 - 18h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Painel Revisão Sistemática (Sessão VI)]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>11/09</Dia>
+		<Semana></Semana>
+		<Horario>14h00 - 18h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Apresentação Oral - Área 5 (Sessão VI)]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>11/09</Dia>
+		<Semana></Semana>
+		<Horario>14h00 - 18h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Apresentação Oral - Área 6 (Sessão VI)]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>11/09</Dia>
+		<Semana></Semana>
+		<Horario>14h00 - 18h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Apresentação Oral - Área 9 (Sessão VI)]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>11/09</Dia>
+		<Semana></Semana>
+		<Horario>14h00 - 18h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Fórum Científico (FC025 a FC030)]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>11/09</Dia>
+		<Semana></Semana>
+		<Horario>14h00 - 18h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Hatton Fase II]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>11/09</Dia>
+		<Semana></Semana>
+		<Horario>14h00 - 18h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[TCC (TCC019 a TCC034)]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>11/09</Dia>
+		<Semana></Semana>
+		<Horario>14h00 - 16h00</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Projeto de Pesquisa- Área 4]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>11/09</Dia>
+		<Semana></Semana>
+		<Horario>14h00 - 17h15</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Projeto de Pesquisa- Área 10]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>11/09</Dia>
+		<Semana></Semana>
+		<Horario>17h30</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Assembleia Extraordinária]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>11/09</Dia>
+		<Semana></Semana>
+		<Horario>20h00</Horario>
+		<Sala></Sala>
+		<Atividade><![CDATA[Assembleia Ordinária]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>12/09</Dia>
+		<Semana></Semana>
+		<Horario>18h30 - 19h30</Horario>
+		<Sala>Sala Encerramento e Premiação</Sala>
+		<Atividade><![CDATA[<p><strong>PALESTRA MAGNA DE ENCERRAMENTO - IMPACTO DA PESQUISA NA SA&Uacute;DE</strong></p><p>Ministrador: <strong>Prof.&nbsp;Marcelo Ara&uacute;jo (American Dental Association - ADA)</strong></p><p>Mediadora: <strong>Profa. Isabela Almeida Pordeus (Presidente SBPqO)</strong></p>]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>12/09</Dia>
+		<Semana></Semana>
+		<Horario>08h45 - 11h15</Horario>
+		<Sala>Sala 1 - Sala Prof. José Nicolau</Sala>
+		<Atividade><![CDATA[<p><strong>SIMP&Oacute;SIO - ESTRAT&Eacute;GIA PARA ESCOLHA DE DESFECHOS E AN&Aacute;LISE DE DADOS EM ESTUDOS CL&Iacute;NICOS</strong></p><p>Coordenador: <strong>Prof. Giuseppe Alexandre Romito</strong> <strong>(FOUSP)</strong><br />&nbsp;</p><p>Palestras:</p><p>08h45 - 09h35<br /><strong>Profa. Magda Feres (UnG)</strong>&nbsp;- Import&acirc;ncia e Estrat&eacute;gias para Escolha de Desfechos em Estudos Cl&iacute;nicos</p><p>09h35 - 10h25<br /><strong>Prof. Heitor Marques Hon&oacute;rio (FOB/USP)</strong> - C&aacute;lculo Amostral &nbsp;Para Estudos Cl&iacute;nicos</p><p>10h25 - 11h15<br /><strong>Prof. Maximiliano S&eacute;rgio Cenci (UFPel)</strong> - An&aacute;lises de Sobrevida em Estudos Cl&iacute;nicos</p>]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>12/09</Dia>
+		<Semana></Semana>
+		<Horario>11h30 - 12h20</Horario>
+		<Sala>Sala 1 - Sala Prof. José Nicolau</Sala>
+		<Atividade><![CDATA[<p><strong>CURSO - ESTADO DA ARTE EM PESQUISA E PR&Aacute;TICA CL&Iacute;NICA: QU&Atilde;O GRANDE &Eacute; O GAP EM MATERIAIS DENT&Aacute;RIOS?</strong></p><p>Coordenador: <strong>Prof.&nbsp;Murilo Baena Lopes&nbsp;(UNOPAR)</strong><br />&nbsp;</p><p>Ministrador: <strong>Prof. Fabricio Collares</strong>&nbsp;<strong>(UFRGS)</strong></p><p><span style="color:#2980b9"><strong>Em parceria com o&nbsp;</strong> <strong>Grupo Brasileiro de Materiais Dent&aacute;rios -&nbsp;GBMD</strong></span></p>]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>12/09</Dia>
+		<Semana></Semana>
+		<Horario>12h30 - 14h00</Horario>
+		<Sala>Sala 1 - Sala Prof. José Nicolau</Sala>
+		<Atividade><![CDATA[<p><strong>SIMP&Oacute;SIO - CLOREXIDINA: EVID&Ecirc;NCIAS RELEVANTES PARA SEU USO NA CL&Iacute;NICA ODONTOL&Oacute;GICA</strong></p><p>Ministradores:&nbsp;</p><p><strong>Prof. Cassiano Kuchenbecker R&ouml;sing (UFRGS)</strong></p><p><strong>Prof. Juliano Cavagni (UFRGS)</strong></p><p><strong>Profa.Patricia Weidlich (UFRGS)</strong></p><p><strong>Profa. Sabrina Carvalho Gomes (UFRGS)</strong></p><p><span style="color:#c0392b"><strong>Patroc&iacute;nio Colgate</strong></span></p>]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>12/09</Dia>
+		<Semana></Semana>
+		<Horario>08h45 - 10h25</Horario>
+		<Sala>Sala 2 - Sala Prof. José Fortunato F. dos Santos</Sala>
+		<Atividade><![CDATA[<p><strong>CURSO INTERNACIONAL - S-PRG TECHNOLOGY: SCIENTIFIC EVIDENCE AS THE BIO-ACTIVE MATERIAL AND IMPACT ON THE CLINIC</strong></p><p>Coordenador: <strong>Prof.&nbsp;Carlos Rocha Gomes Torres (ICT-UNESP/SJC)</strong></p><p>Ministrador: <strong>Prof.&nbsp;Junji Tagami (Tokyo Medical and Dental University - TMDU)</strong></p><p><strong><span style="color:#c0392b">Patroc&iacute;nio SHOFU - Jap&atilde;o</span></strong></p>]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>12/09</Dia>
+		<Semana></Semana>
+		<Horario>11h30 - 12h20</Horario>
+		<Sala>Sala 2 - Sala Prof. José Fortunato F. dos Santos</Sala>
+		<Atividade><![CDATA[<p><strong>CURSO - ANESTESIOLOGIA: EVID&Ecirc;NCIAS CIENT&Iacute;FICAS ATUAIS</strong></p><p>Ministradora:<strong> Profa.&nbsp;Juliana Ramacciato (SL Mandic)</strong></p><p><span style="color:#c0392b"><strong>Patroc&iacute;nio DFL</strong></span></p>]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>12/09</Dia>
+		<Semana></Semana>
+		<Horario>10h25 - 11h15</Horario>
+		<Sala>Sala 2 - Sala Prof. José Fortunato F. dos Santos</Sala>
+		<Atividade><![CDATA[<p><strong>CURSO - OS BENEF&Iacute;CIOS DOS GIOMERS COMO MATERIAIS BIOATIVOS NA ODONTOLOGIA PREVENTIVA E RESTAURADORA</strong></p><p>Ministradoras:&nbsp;</p><p><strong>Profa. Taylane Soffener Berlanga de Ara&uacute;jo (UNORP/UNIP&Oacute;S de S&atilde;o Jos&eacute; do Rio Preto-SP)</strong></p><p><strong>Profa.&nbsp;Alessandra B&uuml;hler Borges (ICT-UNESP-SJC)</strong></p><p><span style="color:#c0392b"><strong>Patroc&iacute;nio SHOFU - Jap&atilde;o</strong></span></p>]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>12/09</Dia>
+		<Semana></Semana>
+		<Horario>09h35 - 10h25</Horario>
+		<Sala>Sala 3 - Sala Prof. Flavio Zelante</Sala>
+		<Atividade><![CDATA[<p><strong>SIMP&Oacute;SIO PARA EDITORES</strong></p><p>Coordenador: <strong>Prof.&nbsp;Sigmar de Mello Rode (ABEC)</strong><br />&nbsp;</p><p>Ministrador:&nbsp;</p><p><strong>Prof.&nbsp;Ricardo Antunes Azevedo (ESALQ/USP) </strong>-&nbsp;O papel do editor frente aos indicadores de cita&ccedil;&atilde;o da revista</p>]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>12/09</Dia>
+		<Semana></Semana>
+		<Horario>10h40 - 12h20</Horario>
+		<Sala>Sala 3 - Sala Prof. Flavio Zelante</Sala>
+		<Atividade><![CDATA[<p><strong>SIMP&Oacute;SIO - DESAFIOS NA COMUNICA&Ccedil;&Atilde;O CIENT&Iacute;FICA</strong></p><p>Coordenador: <strong>Prof.&nbsp;Cl&aacute;udio Mendes Pannuti - (FOUSP)</strong><br />&nbsp;</p><p>Ministradores:<br /><br /><strong>Ana Paula Morales (jornalista e biom&eacute;dica - Ag&ecirc;ncia Bori)</strong>&nbsp;-&nbsp;A imprensa como aliada no fortalecimento da ci&ecirc;ncia<br /><br /><strong>Andr&eacute; Biernath (jornalista)</strong> -&nbsp;Como usar as redes sociais para produzir conte&uacute;do cient&iacute;fico relevante (e interessante) para o p&uacute;blico?<br /><br /><strong>Prof.&nbsp;Thiago Cruvinel (FOB/USP)</strong> -&nbsp;Identificando e combatendo <em>fake news </em>em Odontologia</p>]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>12/09</Dia>
+		<Semana></Semana>
+		<Horario>11h30 - 12h20</Horario>
+		<Sala>Sala 4 - Sala Profa Esther Goldenberg Birman</Sala>
+		<Atividade><![CDATA[<p><strong>SIMP&Oacute;SIO - A PANDEMIA DA COVID-19 E O PROCESSO DE TRABALHO EM SA&Uacute;DE BUCAL: O PAPEL DA P&Oacute;S GRADUA&Ccedil;&Atilde;O</strong></p><p>Coordenadora: <strong>Profa.&nbsp;Cristine Maria Warmling (UFRGS)</strong><br />&nbsp;</p><p>Ministradores:</p><p><strong>Prof. Gilberto Pucca (UnB)</strong></p><p><strong>Prof. Samuel Jorge Moys&eacute;s (PUC/RS e UFPR)</strong></p><p><span style="color:#2c3e50"><strong>Em parceria com a&nbsp;</strong><strong>Associa&ccedil;&atilde;o Brasileira de Sa&uacute;de Coletiva - ABRASCO</strong></span></p>]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>12/09</Dia>
+		<Semana></Semana>
+		<Horario>08h45 - 10h25</Horario>
+		<Sala>Sala 4 - Sala Profa Esther Goldenberg Birman</Sala>
+		<Atividade><![CDATA[<p><strong>SIMP&Oacute;SIO - IMPACTO DA PANDEMIA NA PESQUISA ODONTOL&Oacute;GICA</strong></p><p>Coordenadora: <strong>Profa.&nbsp;Manoela Domingues Martins (UFRGS)</strong><br /><br /><br />Ministradores:</p><p><strong>Prof. Paulo Nadanovsky (UERJ/Fiocruz)</strong> - Novos Rumos para a Produ&ccedil;&atilde;o de Evid&ecirc;ncia Cient&iacute;fica</p><p><strong>Prof. Paulo Ricardo&nbsp;Martins Filho (UFS)</strong> - Pesquisa Sobre COVID-19 no Nordeste do Brasil: Desafios e Potencialidades</p><p><strong>Prof. Luciano Jos&eacute; Pereira (UFLA)</strong> - Impacto da Pandemia Sobre a Produ&ccedil;&atilde;o Cient&iacute;fica Odontol&oacute;gica: Vis&atilde;o de Pesquisador e de Editor Associado</p>]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>12/09</Dia>
+		<Semana></Semana>
+		<Horario>10h25 - 11h15</Horario>
+		<Sala>Sala 4 - Sala Profa Esther Goldenberg Birman</Sala>
+		<Atividade><![CDATA[<p><strong>SIMP&Oacute;SIO - CONTROLE DE INFEC&Ccedil;&Atilde;O NA PR&Aacute;TICA ODONTOL&Oacute;GICA FRENTE AOS DESAFIOS DA COVID-19</strong></p><p>Ministradora: <strong>Profa.</strong>&nbsp;<strong>Maria Eug&ecirc;nia Alvarez Leite (PUC/MG)</strong></p><p>Moderadora:<strong> Profa.&nbsp;Rafaela Scariot (UFPR)</strong></p><p><span style="color:#c0392b"><strong>Patroc&iacute;nio Oral-B</strong></span></p>]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>12/09</Dia>
+		<Semana></Semana>
+		<Horario>08h45 - 09h35</Horario>
+		<Sala>Sala 5 - Sala Prof. Raphael Carlos Comelli Lia</Sala>
+		<Atividade><![CDATA[<p><strong>CURSO - PROJETO SB BRASIL 2020: O QUE FOI PLANEJADO</strong></p><p>Coordenadora: <strong>Profa.&nbsp;Efig&ecirc;nia Ferreira e Ferreira (UFMG)</strong><br />&nbsp;</p><p>Ministradoras:</p><p><strong>Profa.&nbsp;Efig&ecirc;nia Ferreira e Ferreira (UFMG)</strong></p><p><strong>Profa.&nbsp;Raquel Concei&ccedil;&atilde;o Ferreira (UFMG)</strong></p>]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>12/09</Dia>
+		<Semana></Semana>
+		<Horario>09h35 - 10h25</Horario>
+		<Sala>Sala 5 - Sala Prof. Raphael Carlos Comelli Lia</Sala>
+		<Atividade><![CDATA[<p><strong>SIMP&Oacute;SIO - O ESTADO DA ARTE DA PESQUISA NA ODONTOPEDIATRIA BRASILEIRA</strong></p><p>Coordenadora: <strong>Profa.&nbsp;Maria Aparecida de Andrade Moreira Machado (FOB/USP)</strong><br />&nbsp;</p><p>Ministradores:</p><p><strong>Profa.&nbsp;Ana Fl&aacute;via Granville-Garcia (UEPB)</strong></p><p><strong>Prof.&nbsp;Thiago Machado Ardenghi (UFSM)</strong></p><p><span style="color:#2c3e50"><strong>Em parceria com a&nbsp;Associa&ccedil;&atilde;o Brasileira de Odontopediatria &ndash; ABOPED</strong></span></p>]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>12/09</Dia>
+		<Semana></Semana>
+		<Horario>10h40 - 11h30</Horario>
+		<Sala>Sala 5 - Sala Prof. Raphael Carlos Comelli Lia</Sala>
+		<Atividade><![CDATA[<p><strong>VI SIMP&Oacute;SIO DE LASER EM ODONTOLOGIA - LASERS NO CONTEXTO DA ODONTOLOGIA DE M&Iacute;NIMA INTERVEN&Ccedil;&Atilde;O</strong></p><p>Coordenadora: <strong>Profa.&nbsp;Patricia Moreira de Freitas (FOUSP)</strong><br />&nbsp;</p><p>Ministradores:</p><p><strong>Profa.&nbsp;Alyne Sim&otilde;es Gon&ccedil;alves (FOUSP) </strong>-&nbsp;Laser e Terapia Fotodin&acirc;mica no Manejo das Complica&ccedil;&otilde;es Orais dos Pacientes Oncol&oacute;gicos</p><p><strong>Prof.&nbsp;Jamil Awad Shibli (UNG)</strong></p><p>Moderador: <strong>Prof. S&eacute;rgio Eduardo de Paiva Gon&ccedil;alves (ICT-UNESP)</strong></p><p>&nbsp;</p>]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>12/09</Dia>
+		<Semana></Semana>
+		<Horario>11h30 - 12h20</Horario>
+		<Sala>Sala 5 - Sala Prof. Raphael Carlos Comelli Lia</Sala>
+		<Atividade><![CDATA[<p><strong>SIMP&Oacute;SIO - COMO A TOMOGRAFIA CONE BEAM TRANSFORMAR&Aacute; A ODONTOLOGIA RESTAURADORA NOS PR&Oacute;XIMOS ANOS?</strong></p><p>Coordenador: <strong>Prof. Carlos Francci&nbsp;(FOUSP)</strong><br />&nbsp;</p><p>Ministradores:&nbsp;</p><p><strong>Prof. Carlos Estrela (UFG)</strong></p><p><strong>Prof. Mike Bueno (UNIC)</strong></p><p><strong>Prof. Israel Chilvarquer (FOUSP)</strong></p><p><span style="color:#2c3e50"><strong>Em parceria com a&nbsp;Sociedade Brasileira de Odontologia Digital &ndash; SBO DIGITAL</strong></span></p>]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>12/09</Dia>
+		<Semana></Semana>
+		<Horario>16h10 - 17h50</Horario>
+		<Sala>Sala 1 - Sala Prof. Myaki Issao</Sala>
+		<Atividade><![CDATA[<p><strong>SYMPOSIUM - CLINICAL RESEARCH - FROM PLANNING TO SYNTHESIS OF CLINICAL DATA</strong></p><p>Coordenadora: <strong>Dra. Angela</strong>&nbsp;<strong>Mayumi Shimaoka (Clinical and Scientific Consultant - DMG)</strong></p><p>Ministradores:</p><p>16h10 - 17h00</p><p><strong>Dr. Susanne Effenberger</strong> - Head of Clinical Research - (DMG-Germany) -&nbsp;How to plan clinical trials? A guide on clinical trial design</p><p>17h00 - 17h50<br /><strong>Prof. Dr. Falk Schwendicke</strong> - Chair and Head, Department of Oral Diagnosis, Digital Health and Health Services Research (Charit&eacute; &ndash; University Medicine Berlin, Germany) -&nbsp;How to make sense of all the studies? A guide on synthesis methods for clinical data</p><p><span style="color:#c0392b"><strong>Patroc&iacute;nio DMG Germany</strong></span></p>]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>12/09</Dia>
+		<Semana></Semana>
+		<Horario>14h15 - 15h55</Horario>
+		<Sala>Sala 1 - Sala Prof. Myaki Issao</Sala>
+		<Atividade><![CDATA[<p><strong>SIMP&Oacute;SIO TRAUMA - ABORDAGENS TERAP&Ecirc;UTICAS INTERDISCIPLINARES FRENTE AOS TRAUMATISMOS DENT&Aacute;RIOS</strong></p><p>Coordenadora: <strong>Profa.&nbsp;Lucianne Cople Maia (UERJ)</strong><br />&nbsp;</p><p>Ministradores:</p><p>14h15 - 15h05<br /><strong>Prof. Carlos Jos&eacute; Soares (UFU)&nbsp;</strong>- Trauma dental - evid&ecirc;ncias na tr&iacute;ade: conten&ccedil;&atilde;o, restaura&ccedil;&atilde;o &amp; prote&ccedil;&atilde;o</p><p>15h05 - 15h55<br /><strong>Profa. Adriana de Jesus Soares (FOP/UNICAMP)&nbsp;</strong>- Revasculariza&ccedil;&atilde;o/Revitaliza&ccedil;&atilde;o pulpar como op&ccedil;&atilde;o terap&ecirc;utica em dentes traumatizados com rizog&ecirc;nese incompleta</p>]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>12/09</Dia>
+		<Semana></Semana>
+		<Horario>14h15 - 16h45</Horario>
+		<Sala>Sala 2 - Sala Prof. Flávio Fava de Moraes</Sala>
+		<Atividade><![CDATA[<p><strong>SIMP&Oacute;SIO ESTUDOS IN VITRO E IN SITU: ESCOLHA DO MODELO E C&Aacute;LCULO AMOSTRAL</strong></p><p>Coordenadora: <strong>Profa.&nbsp;C&iacute;nthia Pereira Machado Tabchoury (FOP/UNICAMP)</strong></p><p><br />Palestras:</p><p>14h15 - 15h05<br /><strong>Prof.&nbsp;Jaime Aparecido Cury (FOP/UNICAMP)</strong> -&nbsp;Modelos in vitro e in situ: Validade em Odontologia.</p><p>15h05 - 15h55<br /><strong>Prof.&nbsp;Martinho Campolina Rebello Horta (PUC-MG) </strong>-&nbsp;C&aacute;lculo Amostral em Estudos Laboratoriais</p><p>15h55 - 16h45<br /><strong>Prof.&nbsp;Yuri Wanderley Cavalcanti (UFPB)</strong> -&nbsp;A Escolha do Teste Para Estudos Laboratoriais</p>]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>12/09</Dia>
+		<Semana></Semana>
+		<Horario>17h00 - 17h50</Horario>
+		<Sala>Sala 2 - Sala Prof. Flávio Fava de Moraes</Sala>
+		<Atividade><![CDATA[<p><strong>CURSO - RESTAURA&Ccedil;&Otilde;ES COM MATERIAIS BIOATIVOS: CONSIDERA&Ccedil;&Otilde;ES CL&Iacute;NICAS E CIENT&Iacute;FICAS</strong></p><p>Coordenadora: <strong>Profa.&nbsp;S&iacute;lvia Maria Ribeiro de Alencar Gon&ccedil;alves&nbsp;- UFRJ</strong><br />&nbsp;</p><p>Ministradora:</p><p><strong>Profa. Larissa Maria Cavalcante (UVA)&nbsp;</strong>-&nbsp;Restaura&ccedil;&otilde;es com materiais bioativos: considera&ccedil;&otilde;es cl&iacute;nicas e cient&iacute;ficas</p><p><strong><span style="color:#2c3e50">Em parceria com o&nbsp;Grupo Brasileiro de Professores de Dent&iacute;stica &ndash; GBPD</span></strong></p>]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>12/09</Dia>
+		<Semana></Semana>
+		<Horario>17h00 - 17h50</Horario>
+		<Sala>Sala 3 - Sala Profa Maria Fidela de Lima Navarro</Sala>
+		<Atividade><![CDATA[<p><strong>CURSO - INTELIG&Ecirc;NCIA ARTIFICIAL E BIG DATA</strong></p><p>Coordenador: <strong>Prof.&nbsp;Edgard Michel-Crosato (FOUSP)</strong></p><p>Ministrador:</p><p><strong>Prof.&nbsp;Alexandre Dias Porto Chiavegatto Filho (FSP/USP)</strong></p>]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>12/09</Dia>
+		<Semana></Semana>
+		<Horario>15h05 - 15h55</Horario>
+		<Sala>Sala 3 - Sala Profa Maria Fidela de Lima Navarro</Sala>
+		<Atividade><![CDATA[<p><strong>CURSO - CI&Ecirc;NCIA ABERTA</strong></p><p>Coordenadora:&nbsp;<strong>Profa.&nbsp;Maria Gabriela Haye Biazevic (FOUSP)</strong><br />&nbsp;</p><p>Ministrador:</p><p><strong>Prof. Rafael Sarkis Onofre (IMED)</strong></p><p>Ci&ecirc;ncia aberta faz refer&ecirc;ncia a um modelo de pr&aacute;tica cient&iacute;fica que, em conson&acirc;ncia com o desenvolvimento da cultura digital, visa a disponibiliza&ccedil;&atilde;o das informa&ccedil;&otilde;es a todos n&iacute;veis da sociedade de maneira transparente e abrange uma s&eacute;ria de pr&aacute;tica que v&atilde;o desde o acesso a literatura at&eacute; o compartilhamento dos dados e seu reuso. O objetivo da atividade &eacute; apresentar as diferentes pr&aacute;ticas de ci&ecirc;ncia aberta e discutir a sua import&acirc;ncia.&nbsp;</p>]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>12/09</Dia>
+		<Semana></Semana>
+		<Horario>15h55 - 16h45</Horario>
+		<Sala>Sala 3 - Sala Profa Maria Fidela de Lima Navarro</Sala>
+		<Atividade><![CDATA[<p><strong>SIMP&Oacute;SIO - TRANSPAR&Ecirc;NCIA NA PESQUISA</strong></p><p>Coordenador: <strong>Prof.&nbsp;Saul Martins Paiva (UFMG)</strong></p><p>Ministradores:</p><p><strong>Prof.&nbsp;Fausto Medeiros Mendes (FOUSP)</strong></p><p><strong>Prof.&nbsp;David Normando (UFPA)</strong></p><p><span style="color:#2c3e50"><strong>Em parceria com o&nbsp;Grupo Brasileiro de Professores de Ortodontia e Odontopediatria &ndash; GRUPO </strong></span></p>]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>12/09</Dia>
+		<Semana></Semana>
+		<Horario>14h15 - 15h05</Horario>
+		<Sala>Sala 3 - Sala Profa Maria Fidela de Lima Navarro</Sala>
+		<Atividade><![CDATA[<p><strong>SIMP&Oacute;SIO - CONSEQU&Ecirc;NCIAS POSITIVAS DAS BOAS PR&Aacute;TICAS DE PESQUISA</strong></p><p>Coordenadora: <strong>Profa.&nbsp;Maria Gabriela Haye Biazevic (FOUSP)</strong></p><p>Palestras:</p><p><strong>Profa. Cl&aacute;udia Bauzer Medeiros (Coordenacao do Programa em eScience e Data Science da FAPESP)</strong> -&nbsp;Gest&atilde;o / Plano de dados em Pesquisa</p><p><strong>Prof.&nbsp;Ricardo Antunes Azevedo (ESALQ/USP) </strong>-&nbsp;Pl&aacute;gio e outros desvios de conduta na comunica&ccedil;&atilde;o cient&iacute;fica</p>]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>12/09</Dia>
+		<Semana></Semana>
+		<Horario>14h15 - 15h05</Horario>
+		<Sala>Sala 4 - Sala Prof. Jarbas Arruda Bauer</Sala>
+		<Atividade><![CDATA[<p><strong>CURSO - AVALIA&Ccedil;&Atilde;O DE APRENDIZAGEM: QUAIS AS ESTRAT&Eacute;GIAS PARA PRODUZIR CONHECIMENTO?</strong></p><p>Coordenadora:&nbsp;<strong>Profa. Vania Regina Camargo Fontanella (UFRGS)</strong><br />&nbsp;</p><p>Ministrador:<strong>&nbsp;Prof. Rodrigo Guerra de Oliveira (SUPREMA, Comiss&atilde;o de Ensino da ABENO)</strong></p><p><span style="color:#2c3e50"><strong>Em parceria com a&nbsp;Associa&ccedil;&atilde;o Brasileira de Ensino Odontol&oacute;gico &ndash; ABENO</strong></span></p>]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>12/09</Dia>
+		<Semana></Semana>
+		<Horario>15h05 - 15h55</Horario>
+		<Sala>Sala 4 - Sala Prof. Jarbas Arruda Bauer</Sala>
+		<Atividade><![CDATA[<p><strong>CURSO - TELEEDUCA&Ccedil;&Atilde;O E TELEDIAGN&Oacute;STICO EM ESTOMATOLOGIA E PATOLOGIA ORAL: COMO EST&Atilde;O AS EVID&Ecirc;NCIAS CIENTIFICAS?</strong></p><p>Coordenadora:<strong> Profa.&nbsp;Manoela Domingues Martins (UFRGS)</strong></p><p>&nbsp;</p><p>&nbsp;</p><p>Ministrador: <strong>Prof.</strong>&nbsp;<strong>Vinicius Coelho Carrard (UFRGS)</strong></p><p>&nbsp;</p><p><span style="color:#2c3e50"><strong>Em parceria com a&nbsp;Sociedade Brasileira de Estomatologia e Patologia Oral &ndash; SOBEP</strong></span></p>]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>12/09</Dia>
+		<Semana></Semana>
+		<Horario>16h10 - 17h50</Horario>
+		<Sala>Sala 4 - Sala Prof. Jarbas Arruda Bauer</Sala>
+		<Atividade><![CDATA[<p><strong>SIMP&Oacute;SIO - DESMISTIFICANDO AS AN&Aacute;LISES DE DADOS EM REVIS&Atilde;O SISTEM&Aacute;TICA</strong></p><p>Coordenadora: <strong>Profa.&nbsp;Daniela Pr&oacute;cida Raggio (FOUSP)</strong></p><p>Palestras:</p><p>16h10-17h00<br /><strong>Profa.&nbsp;Carolina Castro Martins (UFMG) -&nbsp;</strong>Existe diferen&ccedil;a no uso do GRADE para meta-an&aacute;lises e <em>network </em>meta-an&aacute;lise?</p><p>17h00-17h50<br /><strong>Profa. Alessandra Reis (UEPG) </strong>- Quando usar a Meta-An&aacute;lise de Compara&ccedil;&atilde;o Direta e a Network Meta-An&aacute;lise?</p>]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>12/09</Dia>
+		<Semana></Semana>
+		<Horario>15h55 - 16h45</Horario>
+		<Sala>Sala 5 - Sala Prof. João Humberto Antoniazzi</Sala>
+		<Atividade><![CDATA[<p><strong>CURSO - RELA&Ccedil;&Atilde;O DA ATEROSCLEROSE E DA DIABETES COM A PERIODONTITE APICAL</strong></p><p>Coordenador: <strong>Prof.&nbsp;Marco Ant&ocirc;nio Hungaro Duarte (SBEndo)</strong></p><p>Ministradores:</p><p><strong>Prof. Luciano Tavares &Acirc;ngelo Cintra (FOA/UNESP)</strong></p><p><strong>Prof. Maximiliano Sh&uuml;nke Gomes (PUC/RS)</strong></p><p>Ser&aacute; realizada associa&ccedil;&atilde;o da presen&ccedil;a de periodontite apical e problemas sist&ecirc;micos como a Diabetes e problemas card&iacute;acos. Ser&aacute; apresentados estudos realizados em modelos animais e estudos epidemiol&oacute;gicos realizados sobre o assunto e as perspectivas futuras em rela&ccedil;&atilde;o &agrave; essa tem&aacute;tica e nortear a realiza&ccedil;&atilde;o para estudos futuros.</p><p><span style="color:#2c3e50"><strong>Em parceria com a&nbsp;Sociedade Brasileira de Endodontia &ndash; SBEndo</strong></span></p>]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>12/09</Dia>
+		<Semana></Semana>
+		<Horario>15h05 - 15h55</Horario>
+		<Sala>Sala 5 - Sala Prof. João Humberto Antoniazzi</Sala>
+		<Atividade><![CDATA[<p><strong>SIMP&Oacute;SIO - PERIODONTITE: ENTENDENDO SUA RELA&Ccedil;&Atilde;O COM A SA&Uacute;DE SIST&Ecirc;MICA E DEFININDO ESTRAT&Eacute;GIAS TERAP&Ecirc;UTICAS MAIS EFETIVAS</strong></p><p>Coordenador: <strong>Prof.&nbsp;Sergio Kahn (UVA)</strong><br />&nbsp;</p><p>Ministradores:</p><p><strong>Prof. Ricardo Fischer (UERJ)</strong></p><p><strong>Profa. Magda Feres (UnG)</strong></p><p><strong>Prof. Enilson Sallum (FOP/UNICAMP)</strong></p><p><span style="color:#2c3e50"><strong>Em parceria com a&nbsp;</strong><strong>Sociedade Brasileira de Periodontia &ndash; SOBRAPE </strong></span></p>]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>12/09</Dia>
+		<Semana></Semana>
+		<Horario>17h00 - 17h50</Horario>
+		<Sala>Sala 5 - Sala Prof. João Humberto Antoniazzi</Sala>
+		<Atividade><![CDATA[<p><strong>CURSO - DIAGN&Oacute;STICO E TRATAMENTO DAS DORES OROFACIAIS: ESTADO ATUAL E PERSPECTIVAS FUTURAS</strong></p><p>Ministrador: <strong>Prof.&nbsp;Leonardo Rigoldi Bonjardim (FOB/USP)</strong></p><p>Moderadora: <strong>Profa. Daniela Godoi Gon&ccedil;alves (FOAR/UNESP)</strong></p><p>&nbsp;</p><p><span style="color:#2c3e50"><strong>Em parceria com a&nbsp;Sociedade Brasileira de Disfun&ccedil;&atilde;o Temporomandibular e Dor Orofacial &ndash; SBDOF</strong></span></p>]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>12/09</Dia>
+		<Semana></Semana>
+		<Horario>14h15 - 15h05</Horario>
+		<Sala>Sala 5 - Sala Prof. João Humberto Antoniazzi</Sala>
+		<Atividade><![CDATA[<p><strong>CURSO - A UTILIDADE DOS GR&Aacute;FICOS DIRETOS AC&Iacute;CLICOS (DAG) EM ESTUDOS EPIDEMIOL&Oacute;GICOS</strong></p><p>&nbsp;</p><p>Coordenador: <strong>Prof. Heitor Marques Hon&oacute;rio (FOB/USP)</strong>&nbsp;</p><p>Ministrador: <strong>Prof.&nbsp;Mauro Henrique Nogueira Guimar&atilde;es de Abreu (UFMG)</strong></p><p>O curso abordar&aacute; conceitos gerais sobre Gr&aacute;ficos Diretos Ac&iacute;clicos (DAG) em estudos epidemiol&oacute;gicos em sa&uacute;de bucal. As ferramentas dispon&iacute;veis no site&nbsp;<a target="_blank" href="http://www.dagitty.net/">http://www.dagitty.net/</a>&nbsp;ser&atilde;o utilizadas para demonstrar a constru&ccedil;&atilde;o destes gr&aacute;ficos.&nbsp;</p><p>&nbsp;</p>]]></Atividade>
+	</Informacoes>
+	<Informacoes>
+		<Dia>12/09</Dia>
+		<Semana></Semana>
+		<Horario>20h00</Horario>
+		<Sala>Sala Encerramento e Premiação</Sala>
+		<Atividade><![CDATA[<p>Cerim&ocirc;nia de Encerramento e Premia&ccedil;&atilde;o</p>]]></Atividade>
+	</Informacoes>
+</Programacao>
