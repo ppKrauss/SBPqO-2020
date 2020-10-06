@@ -17,7 +17,7 @@ Além da transparência na comprovação e gestão de entregas, o repositório t
 ## Links
 
 Oficiais:
-* Evento: [sbpqo.org.br/hotsite2019](https://www.sbpqo.org.br/hotsite2020/)
+* Evento: [sbpqo.org.br/hotsite2020](https://www.sbpqo.org.br/hotsite2020/)
 * Sociedade SBPqO: [sbpqo.org.br](https://www.sbpqo.org.br)
 * Revista BOR: [scielo.br/bor](http://www.scielo.br/bor)
 

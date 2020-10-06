@@ -9,7 +9,7 @@ $LIBVERS = '1.5.6'; // v1.5.6 de 2019-08-28; v1.5.5 de 2015-08-24;
                     // v1.2 de 2014-08-03; v1.1 de 2014-08-02; v1.0 de 2014-08-01.
 
 
-///////  ///////  ///////  /////// 
+///////  ///////  ///////  ///////
 /////// I/O INICIALIZATION ///////
 $io_baseDir = realpath( __DIR__.'/..' );
 
@@ -20,7 +20,7 @@ $fileDescr     = "$io_baseDir/../$pastaDados/CSV1-3/indiceDescritores.csv";
 $fileLocalHora = "$io_baseDir/../$pastaDados/CSV1-3/localHorario.csv";
 $fileLocal     = "$io_baseDir/../$pastaDados/CSV1-3/local.csv";
 $CSV_SEP=',';
-$CSV_SEPaux = '/[\s,]+/s'; // sub-separador (auxiliar), ignorando subcampos vazios 
+$CSV_SEPaux = '/[\s,]+/s'; // sub-separador (auxiliar), ignorando subcampos vazios
 $fileFieldAu   = 'COD_AUTOR';
 $fileField00   = 'COD_CHAVE';
 $buffsize      = 3000;
@@ -29,31 +29,34 @@ $finalUTF8     = TRUE;
 $isMultiSec    = FALSE;  // por default é uma seção por arquivo
 
 $SECAO         = array( // na ordem
-	'PE'=> 'Pesquisa em Ensino',
-	'PO'=> 'PROJETO POAC (Projeto de Pesquisa Odontológica de Ação Coletiva)',
-	'PR'=> 'PRONAC - Prêmio Incentivo A Pesquisa - Produtos Nacionais',	
-	'HA'=> 'UNILEVER Travel Award (Hatton)',
-	'COL'=>'Prêmio COLGATE Odontologia Preventiva',
-	'JL'=> 'Prêmio Joseph Lister',	
 	'AO'=> 'Apresentação Oral',
+	'COL'=>'Prêmio Colgate Odontologia Preventiva',
+	'DMG'=>'Prêmio DMG Odontologia Minimamente Invasiva', // new 2020
 	'FC'=> 'Fórum Científico',
-	'PI'=> 'Painel Iniciante (prêmio Miyaki Issao)',	
+	'HA'=> 'Prêmio Hatton (IADR *Unilever Hatton Division Award*)',
+	'LH'=> 'Prêmio LAOHA Colgate de Valorização à Internacionalização', // new 2020
+	'PDI'=>'Painel "Pesquisa Dentro da Indústria"',  // chg
+	'PE'=> 'Pesquisa em Ensino',
+	'PI'=> 'Painel Iniciante (prêmio Miyaki Issao)',
 	'PN'=> 'Painel Aspirante e Efetivo',
-	'RS'=> 'Painel Revisão Sistemática',
+	'PO'=> 'POAC (Pesquisa Odontológica de Ação Coletiva)',
+	'RS'=> 'Painel Revisão Sistemática e Meta-Análise',
+	'TCC'=> 'Painel TCC',
+	// saiu 'JL'=> 'Prêmio Joseph Lister',
 );
 
 $FILTRO= [];
 $FILTRO['regrasDefault'] = [ // CONFIGURAÇÃO DAS REGRAS DE NORMALIZAÇÃO:
 	'NFC'=>TRUE, // por hora usar http://minaret.info/test/normalize.msp
-	'eq1'=>TRUE, 'fmt1'=>TRUE, 'pm1'=>TRUE, 'pm2'=>TRUE, 'nbhy1'=>TRUE, 
+	'eq1'=>TRUE, 'fmt1'=>TRUE, 'pm1'=>TRUE, 'pm2'=>TRUE, 'nbhy1'=>TRUE,
 	'perc1'=>TRUE, 'SBPqO-raiosx'=>TRUE, 'norm-sps'=>TRUE, 'SBPqO-apoio'=>1,
 	'SBPqO-bugs1'=>TRUE,  // bugs de UTF8 remanescentes, e da fonte no PDF!
 	'SBPqO-bugs2'=>FALSE, // bug do "Apoio:..." duplicado
 ];
-/**$symbol_PDFbugs = array_map('html_entity_decode', [ // relatório PDF com hexadecimais. 
+/**$symbol_PDFbugs = array_map('html_entity_decode', [ // relatório PDF com hexadecimais.
 	// cairam apenas os diacrilicos, incluindo &#x0327;="̧"
  '&#x2082;', '&#x2070;', '&#x2076;', '&#xF0B0;', '&#x035E;', '&#;', '&#xF0D4;',
- '&#xF067;', '&#xF062;', '&#x0190;', '&#x0263;', '&#x1D43;', '&#x1D47;', '&#x1D9C;', '&#x1D52;', 
+ '&#xF067;', '&#xF062;', '&#x0190;', '&#x0263;', '&#x1D43;', '&#x1D47;', '&#x1D9C;', '&#x1D52;',
  '&#xF063;', '&#x03F0;', '&#x025B;', ''
 ]);  // ... eliminar diacrilicos (ver NFC), deixar apenas falhas de fonte do PDF/CSS atual.
 */
@@ -61,12 +64,12 @@ $FILTRO['regrasDefault'] = [ // CONFIGURAÇÃO DAS REGRAS DE NORMALIZAÇÃO:
 
 /**
  * Filtros para normalizar o conteudo do resumo e outros campos. Preferir uso no DOM sobfre #text.
- * @param $regrasTroca NULL ou array com regras a serem trocadas (ver FILTRO_regrasDefault). 
+ * @param $regrasTroca NULL ou array com regras a serem trocadas (ver FILTRO_regrasDefault).
  *         acrescentar campo 'reset'=>1 para ter efeito de complemento.
  * @param $utfEncode=TRUE, não alterar, ficando só na filtragem de nodeValue DOM.
  * PS: um parâmetro "campo" (titulo, resumo, conclusao, key, local) poderia tb filtrar as regras.
  */
-$FILTRO['func'] = function ($out,$regrasTroca=NULL,$utfEncode=TRUE) use (&$FILTRO) { 
+$FILTRO['func'] = function ($out,$regrasTroca=NULL,$utfEncode=TRUE) use (&$FILTRO) {
 	$RGA = $FILTRO['regrasDefault'];
 	if ($regrasTroca!==NULL) {
 		if (isset($regrasTroca['reset'])) foreach(array_keys($RGA) as $k) $RGA[$k]=FALSE;
@@ -84,7 +87,7 @@ $FILTRO['func'] = function ($out,$regrasTroca=NULL,$utfEncode=TRUE) use (&$FILTR
 
 		if ($RGA['SBPqO-bugs1']) $out = str_replace( // trocas para limpar falhas da submissão SBPqO
 			['', '˂', '˃', 'CO₂',           'ᵒC', 'C', '⁰',           'µƐ', 'µɛ',
-			 '⁶',           'ᵃ',           'ᵇ',            'ᶜ', 
+			 '⁶',           'ᵃ',           'ᵇ',            'ᶜ',
 			 'ϰ',                  'ɛ',                  'Ɛ',               'ɣ'
 			],
 			['µ', '<', '>', 'CO<sub>2</sub>','°C', '°C', '<sup>0</sup>','µε', 'µε',
@@ -98,7 +101,7 @@ $FILTRO['func'] = function ($out,$regrasTroca=NULL,$utfEncode=TRUE) use (&$FILTR
 	} else {// (!$utfEncode), só funciona com XML, APOSENTAR!
 		$NBHYP = '&#8209;'; // no-breaking hyphen
 		$HNBSP = '&#8239;'; // half NBSP
-		$NBSP  = '&nbsp;';		
+		$NBSP  = '&nbsp;';
 		if ($RGA['fmt1']) $out = preg_replace('|<(su[bp])>(\s*)(.+?)(\s*)</\1>|is','$2<$1>$3</$1>$4', $out); // ex. <sub>10 </sub>
 		if ($RGA['eq1'])  $out = preg_replace('/([\dpn])\s*(&lt;|&gt;|=)\s*([\dpn])/uis',"\$1$HNBSP\$2$HNBSP\$3",$out);
 	}
@@ -110,7 +113,7 @@ $FILTRO['func'] = function ($out,$regrasTroca=NULL,$utfEncode=TRUE) use (&$FILTR
 	//$out = preg_replace('/(?<=R)aios[\-\s]X(?=[\s\.,;])/is',"aios{$HNBSP}X",$out); // normalização do termo "Raios X"
 	if ($RGA['SBPqO-raiosx']) $out = preg_replace('/(?<=R)aios[\-\s]X(?=[\s\.,;]|$)/uis',"aios{$NBSP}X",$out); // normalização do termo "Raios X"
 	if ($RGA['SBPqO-bugs2'])  $out = preg_replace('/(?<=[\s\.])Apoio\s?:/is', ' ERRO-CLAUDIO-VER-AQUI:', $out);
-		//  ex. Apoio: FAPESP (2013/12547‑4) e CNPq (444195/2014‑9). (Apoio: FAPESP - 2013/12547‑4) 
+		//  ex. Apoio: FAPESP (2013/12547‑4) e CNPq (444195/2014‑9). (Apoio: FAPESP - 2013/12547‑4)
 	if ($RGA['SBPqO-apoio'])  $out = preg_replace('/\( ?Apoio ?:(.+?)\)\s*$/is', '###funding-source: $1#_##', $out);
 	// destaca da conclusao ou do abstract.
 	return $out;
@@ -120,7 +123,7 @@ define ('XML_HEADER1', '<?xml version="1.0" encoding="UTF-8"?>');
 //setlocale (LC_COLLATE, 'pt_br');
 date_default_timezone_set('America/Sao_Paulo'); // deprecated 'Brazil/East'
 setlocale(LC_ALL,'pt_BR.UTF8');
-mb_internal_encoding('UTF8'); 
+mb_internal_encoding('UTF8');
 mb_regex_encoding('UTF8');
 
 
@@ -144,7 +147,7 @@ $ctrl_idnames     = array(); // cria e controla IDs
 
 
 /**
- * CARGA DE OPTIONS:	
+ * CARGA DE OPTIONS:
  */
 list($io_options,$io_usage,$io_options_cmd,$io_params) = getopt_FULLCONFIG(
 	array(
@@ -163,9 +166,9 @@ list($io_options,$io_usage,$io_options_cmd,$io_params) = getopt_FULLCONFIG(
 	    "s|xsltFile:file"=> 'use a XSLT file with tpl1',
 
 	    "r|raw*"=>     	 'outputs RAW input HTML',	// use http://www.w3.org/TR/html-polyglot/
-	    "x|xml*"=>     	 '(default) outputs a raw (non-standard) XML format, for debug',	
-	    "m|finalXml*"=>	 'outputs a final (standard) XML JATS-like format',	
-	    "l|finalHtml*"=> 'outputs a final (standard) XHTML format',	
+	    "x|xml*"=>     	 '(default) outputs a raw (non-standard) XML format, for debug',
+	    "m|finalXml*"=>	 'outputs a final (standard) XML JATS-like format',
+	    "l|finalHtml*"=> 'outputs a final (standard) XHTML format',
 
 	    "o|out:file"=>		'output file (default STDOUT)',
 	    "f|in:file_dir"=> 	'input file or directory (default file STDIN)',
@@ -180,9 +183,9 @@ list($io_options,$io_usage,$io_options_cmd,$io_params) = getopt_FULLCONFIG(
 	    "h|help*"=>   	'show help message',
 	),
 
-	"\nUsage: 
-   php main.php [options] [--] [args...] [-f] {\$file} [-o] {\$file} 
-   php assert.php [options] [--] [args...] [-f] {\$file} 
+	"\nUsage:
+   php main.php [options] [--] [args...] [-f] {\$file} [-o] {\$file}
+   php assert.php [options] [--] [args...] [-f] {\$file}
    php main.php [rexml] < {\$file_input} > {\$file_output}
    php assert.php [rexml] < {\$file_input}
 
@@ -200,10 +203,10 @@ list($io_options,$io_usage,$io_options_cmd,$io_params) = getopt_FULLCONFIG(
 );
 
 /**
- * Extensão da função getopt() para configuração integral das mensagens e validações. 
+ * Extensão da função getopt() para configuração integral das mensagens e validações.
  * @param io_longopts_full array(opt=>descricao). Cada opt respeitando a seguinte sintaxe,
  *   	  <opt> "|" <longopt> [":"<obj>|"::"<obj>] ["*"]
- *        Onde <opt> é uma letra, <longopt> uma palavra, <obj> um indicador "file" ou "dir", 
+ *        Onde <opt> é uma letra, <longopt> uma palavra, <obj> um indicador "file" ou "dir",
  *        "::" opcional, ":" obrigatorio, "*" indica que é um comando (nao apenas opt de io).
  */
 function getopt_FULLCONFIG(
@@ -235,7 +238,7 @@ function getopt_FULLCONFIG(
 	$io_options = getopt($io_stropts, array_keys($io_longopts)); // is for terminal; for http uses $_GET of the same optes
 	$io_options_cmd = array();
 	foreach ($io_options as $k=>$v) {
-		if ($v===false)  // facilitador de pesquisa	
+		if ($v===false)  // facilitador de pesquisa
 			$io_options[$k]=true;
 		if ( isset($io_optmap[$k]) ) {   // normalizador (para long-options)
 			unset($io_options[$k]);
@@ -256,7 +259,7 @@ if (!$io_isTerminal) {
 }
 
 /////// END I/O INICIALIZATION ///////
-///////   ///////   ///////   /////// 
+///////   ///////   ///////   ///////
 
 
 /**
@@ -275,10 +278,10 @@ function getopt_msg($tpl,$longopts,$sp1='   ',$descNameRef='_DESCR_OPTIONS_') {
 				unset($longopts[$m[1]]);
 			} elseif (isset($longopts["$m[1]:"])) {
 				$s = $longopts["$m[1]:"];
-				unset($longopts["$m[1]:"]);				
+				unset($longopts["$m[1]:"]);
 			}
 			if ($s)
-				return "--$m[1]$m[2]$s";			
+				return "--$m[1]$m[2]$s";
 			else
 				return $m[1].$m[0];
 		},
@@ -299,9 +302,9 @@ function getopt_msg($tpl,$longopts,$sp1='   ',$descNameRef='_DESCR_OPTIONS_') {
 }
 /*
 	 OUTROS SUBSIDIOS PARA O "PROJETO GETOPT-WSDL":
-	 Revisar: 
+	 Revisar:
 	  https://github.com/ulrichsg/getopt-php
-	  http://pear.php.net/package/Console_GetoptPlus  
+	  http://pear.php.net/package/Console_GetoptPlus
 	  https://github.com/hguenot/GWebService/blob/master/command/WsdlCommand.php
 	    https://github.com/hguenot/GWebService/blob/master/command/wsdl/assets/Getopt.php
 	  Outras refs:
@@ -325,7 +328,7 @@ class domParser extends DOMDocument { // refazer separando DOM como no RapiDOM!
 	private $nodePathes = array(
 		'BRs'=>'//br',
 		'paragrafos P'=>'//p',
-		'  vazios'=>'//p[not(normalize-space(.))]',		
+		'  vazios'=>'//p[not(normalize-space(.))]',
 		'  não-vazios'=>'//p[string-length(string(.))>0]',
 		'    com 200+ letras'=>'//p[string-length(string(.))>200]',
 		'    com 1800+ letras'=>'//p[string-length(string(.))>1800]',
@@ -343,7 +346,7 @@ class domParser extends DOMDocument { // refazer separando DOM como no RapiDOM!
 	private $CRLFs = "\n\n";
 
 	/**
-	 * Get HTML body from any HTML file. Use show_*() methods to check it before to use. 
+	 * Get HTML body from any HTML file. Use show_*() methods to check it before to use.
 	 */
 	function getHtmlBody($fileOrString, $enforceUtf8=FALSE, $rmLF=TRUE) {
 		$this->resolveExternals = true;
@@ -362,10 +365,10 @@ class domParser extends DOMDocument { // refazer separando DOM como no RapiDOM!
 		if (!preg_match('/^\s*<\?xml\s/',$fileOrString)) {
 			$cc=0;// IMPORTANTE O META, SENAO loadHTML IGNORA!!
 			$fileOrString = preg_replace(
-				'/(<meta)/is', 
-				'<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />$1', 
+				'/(<meta)/is',
+				'<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />$1',
 				$fileOrString, 1, $cc
-			);  // garante UTF8 do XHTML. Cuidado, vale apenas (X)HTML, não outros como body isolado. 
+			);  // garante UTF8 do XHTML. Cuidado, vale apenas (X)HTML, não outros como body isolado.
 			if (!$cc)
 			    $fileOrString = '<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />'.$fileOrString;
 			$this->recover =true;
@@ -377,15 +380,15 @@ class domParser extends DOMDocument { // refazer separando DOM como no RapiDOM!
 				@$this->loadHTML($fileOrString, LIBXML_NOWARNING | LIBXML_NOERROR);
 			$this->encoding = 'UTF-8';
 
-			$this->css  =  	$this->getElementsByTagName('style')->length? 
-								$this->getElementsByTagName('style')->item(0)->textContent: 
+			$this->css  =  	$this->getElementsByTagName('style')->length?
+								$this->getElementsByTagName('style')->item(0)->textContent:
 								'';
 			if ($this->getElementsByTagName('body')->length) {
 				$XML = 	$this->saveXML( $this->getElementsByTagName('body')->item(0) );
 				$XML = preg_replace('#^\s*<body[^>]*>|</body>\s*$#','',$XML);
 				$XML = "<html>$XML</html>";
 			} else
-				$XML = 	$this->saveXML($this->documentElement); // html root?					
+				$XML = 	$this->saveXML($this->documentElement); // html root?
 		} else {
 			$XML = &$fileOrString; // veio mesmo XML
 			$this->isXML_step1 = true;
@@ -401,7 +404,7 @@ class domParser extends DOMDocument { // refazer separando DOM como no RapiDOM!
 	}
 
 	function setItem(&$list,$p) {
-		if (!isset($list[$p])) $list[$p]=0; 
+		if (!isset($list[$p])) $list[$p]=0;
 		$list[$p]++;
 	}
 
@@ -459,7 +462,7 @@ class domParser extends DOMDocument { // refazer separando DOM como no RapiDOM!
 				$id=$first;
 				$IDs[]=$id;
 				foreach ($ntype as $k=>$v) $RELAT.= "$k=$v; ";
-			} else 
+			} else
 				$RELAT.= "\n\t!paragraph $n ERROR! content of 30 firsts: '".substr($txt,0,30)."'";
 		}
 		if ($MODO=='relat4') { // onlyIds
@@ -473,7 +476,7 @@ class domParser extends DOMDocument { // refazer separando DOM como no RapiDOM!
 					$sec0 = $sec;
 					print "\nSec-$sec0: $idC";
 				} elseif ($sec0!=$sec) {
-					print "-$id0";				
+					print "-$id0";
 					$sec0 = $sec;
 					$id0 = $idC;
 					print ".\nSec-$sec0: $idC";
@@ -485,7 +488,7 @@ class domParser extends DOMDocument { // refazer separando DOM como no RapiDOM!
 					print "-$id0; $idC";
 					$id0 = $idC;
 				}
-			} else 
+			} else
 				die("\nERRO: ID $id inválido. \n");
 			print "-$idC.\n";
 		} else
@@ -503,7 +506,7 @@ class domParser extends DOMDocument { // refazer separando DOM como no RapiDOM!
 
 		if (!array_key_exists($idname,$ctrl_idnames))
 			$ctrl_idnames[$idname] = array(1,array()); // contador e lista de ocorrências
-		if (isset($ctrl_idnames[$idname][1][$item])) 
+		if (isset($ctrl_idnames[$idname][1][$item]))
 			$id = $ctrl_idnames[$idname][1][$item];
 		else {
 			$id = $ctrl_idnames[$idname][1][$item]=$ctrl_idnames[$idname][0];
@@ -567,8 +570,8 @@ class domParser extends DOMDocument { // refazer separando DOM como no RapiDOM!
 			  foreach($xp->query($xqSec) as $node) {
 				$id='';
 				$n++;
-				//  || (preg_match('/^\s*(([A-Z]+)(\-?[a-z]?)\d{1,5})/su',$node->textContent,$m) 
-				if (  preg_match('/^\s*(([A-Z]+)(\-?[a-z]?)\d{3,4})/s',$node->firstChild->nodeValue,$m) 
+				//  || (preg_match('/^\s*(([A-Z]+)(\-?[a-z]?)\d{1,5})/su',$node->textContent,$m)
+				if (  preg_match('/^\s*(([A-Z]+)(\-?[a-z]?)\d{3,4})/s',$node->firstChild->nodeValue,$m)
 					  && ($id=$m[1])
 					) {
 					// fora de uso && (!$dayFilter || in_array($id,$Resumos_byDia[$dayFilter]))
@@ -578,7 +581,7 @@ class domParser extends DOMDocument { // refazer separando DOM como no RapiDOM!
 					$nOk++;
 					$DESCR = isset($DESCR_byResumo[$id])? $DESCR_byResumo[$id]:  array("(sem descritor de assunto)");
 					if (!isset($LocHora_byResumo[$id]))
-						//list($dia,$hini,$hfim,$local) = array("err-$id","err-$id","err-$id","err-$id"); 
+						//list($dia,$hini,$hfim,$local) = array("err-$id","err-$id","err-$id","err-$id");
 						array('err','err','err','err');
 					else
 						list($dia,$hini,$hfim,$local) = $LocHora_byResumo[$id]; // 0=dia, 1=hora-inicial, 2=final, 3=local
@@ -614,14 +617,14 @@ class domParser extends DOMDocument { // refazer separando DOM como no RapiDOM!
 								<summary>Reunião de Grupo</summary>
 								<period><start day=\"$dia2\">$hora1</start><end>$hora2</end></period>
 								<location idref='$idloc2'>$local2</location>
-							</event2>";							
+							</event2>";
 						} else
 							$event2 = "
 							<event2>
 								<summary>Reunião de Grupo</summary>
 								<period>ERRO334 em $id</period><location>ERRO335</location>
-							</event2>";	
-						$idloc = domParser::setIdname('loc',$local,TRUE);	
+							</event2>";
+						$idloc = domParser::setIdname('loc',$local,TRUE);
 					} // PN
 					$ele2->appendXML(
 						"<vcalendar><components>"
@@ -657,32 +660,32 @@ class domParser extends DOMDocument { // refazer separando DOM como no RapiDOM!
 									$text = $FILTRO['func']($text, ['SBPqO-raiosx'=>1,'norm-sps'=>1,'reset'=>1], 1);
 
 								if ($ntexts) // second text or more:
-									$ele->appendChild( $auxDom->createTextNode($text) );								
+									$ele->appendChild( $auxDom->createTextNode($text) );
 								else {		// first text:
 									$ntexts=1;
 									$ele->appendChild( $auxDom->createTextNode(rtrim($text)) );
 								}
 							} else {  // demais nodes
 								$imp = $auxDom->importNode($subnode, true);
-								$ele->appendChild($imp);							
+								$ele->appendChild($imp);
 							}
 						} else {
 							$nEle++; // next nEle_name (may use array funcs)
 							$ntexts=0;
 							if (!isset($replacElements[$nEle]) || $replacElements[$nEle]=='ERRO') {
 								$nEle_name = 'ERRO';
-								$ele = $auxDom->createElement($nEle_name);														
+								$ele = $auxDom->createElement($nEle_name);
 								$ele->setAttribute('linha',$n);
 								$ele->setAttribute('tipo',"BR $nEle imprevisto");
 							} else{
-								$nEle_name = $replacElements[$nEle];								
+								$nEle_name = $replacElements[$nEle];
 								$ele = $auxDom->createElement($nEle_name);
 							}
 							$art->appendChild($ele);
 						} // else
 					} // for childNodes
 					$P = $auxDom->saveXML($art);
-					if ($FILTRO['regrasDefault']['SBPqO-apoio'] && preg_match('/###funding-source: (.+?)#_##/s',$P,$m)) {  
+					if ($FILTRO['regrasDefault']['SBPqO-apoio'] && preg_match('/###funding-source: (.+?)#_##/s',$P,$m)) {
 						$fund = trim($m[1]);
 						$P = preg_replace('/###funding-source: .+?#_##/s','',$P);
 						$P = str_replace('</article>',"<funding-source>$fund</funding-source></article>",$P);
@@ -696,16 +699,16 @@ class domParser extends DOMDocument { // refazer separando DOM como no RapiDOM!
 
 			$dias = array_keys($dias);
 			$ndias = count($dias);
-			$dia = domParser::joinMarkId($dias,'d','day',1); // nao precisa id-sequencial (!) pois iso é ref. 
+			$dia = domParser::joinMarkId($dias,'d','day',1); // nao precisa id-sequencial (!) pois iso é ref.
 
 			$secs = array_keys($secs);
 // aqui tratamento de secs, não SEC0
 			$sec = (!count($secs) || count($secs)>1)? 'ERROR': $secs[0];
-			$subsecs = array_keys($subsecs);		
-			$subsec = (count($subsecs))? $subsecs[0]: '';	
+			$subsecs = array_keys($subsecs);
+			$subsec = (count($subsecs))? $subsecs[0]: '';
 			global $SECAO;
 			$SECAO_ordem=array_flip(array_keys($SECAO)); // ex. $SECAO_ordem['PR']==2.
-			$title = isset($SECAO[$sec])? $SECAO[$sec]: 'ERROR';			
+			$title = isset($SECAO[$sec])? $SECAO[$sec]: 'ERROR';
 			$sord = isset($SECAO_ordem[$sec])? $SECAO_ordem[$sec]: 'ERROR';
 			//if ($subsec) $title.=", Parte \"$subsec\"";
 			global $ctrl_idnames;
@@ -759,7 +762,7 @@ class domParser extends DOMDocument { // refazer separando DOM como no RapiDOM!
 					<xsl:choose>
 						<xsl:when test="$dayFilter=''">
 						    <xsl:apply-templates select="days|locations"/>
-						    <keys todo="1"/>		<!-- must be unique and ordered -->						    
+						    <keys todo="1"/>		<!-- must be unique and ordered -->
 					    	<xsl:apply-templates select=".//article"/>
 						</xsl:when>
 						<xsl:otherwise>
@@ -785,9 +788,9 @@ class domParser extends DOMDocument { // refazer separando DOM como no RapiDOM!
 					<xsl:apply-templates/>
 				</xsl:copy>
 				<!-- unique registering: -->
-				<xsl:copy-of select="fn:function('xsl_nRegister', 'ev2', string(./pubid), .//event2/location)" />				
+				<xsl:copy-of select="fn:function('xsl_nRegister', 'ev2', string(./pubid), .//event2/location)" />
 				<xsl:copy-of select="fn:function('xsl_nRegister', 'loc', string(./pubid), .//components/location)" />
-				<xsl:copy-of select="fn:function('xsl_nRegister', 'key', string(./pubid), .//key)" />				
+				<xsl:copy-of select="fn:function('xsl_nRegister', 'key', string(./pubid), .//key)" />
 			</xsl:template>
 
 			<xsl:template match="aff"><!-- perigo, agrupar sob artigo -->
@@ -802,7 +805,7 @@ class domParser extends DOMDocument { // refazer separando DOM como no RapiDOM!
 				<xsl:copy-of select="fn:function('xsl_markCorresp',.)" />
 			</xsl:template>
 EOD;
-		// <vcalendar xmlns='urn:ietf:params:xml:ns:xcal'>  ver https://tools.ietf.org/html/rfc6321 
+		// <vcalendar xmlns='urn:ietf:params:xml:ns:xcal'>  ver https://tools.ietf.org/html/rfc6321
 		$xmlDom = new DOMDocument('1.0', 'UTF-8');
 
 		//die ($this->asXML($p_dayFilter,$isMultiSec));
@@ -822,12 +825,12 @@ EOD;
 			</xsl:template>
 			<xsl:template match="sec/days/day">
 				<xsl:copy-of select="fn:function(\'xsl_dayFormat\',string(.))" />
-			</xsl:template>			
+			</xsl:template>
 
 		';
 		$xmlDom = transformId_ToDom($XSL,$xmlDom);
 		$xmlDom->encoding = 'UTF-8';
-		//global $registerLists; var_dump($registerLists); 
+		//global $registerLists; var_dump($registerLists);
 		//die('DEBU11:'.$xmlDom->saveXML());
 
 		return ($MODO=='dom')? $xmlDom: $xmlDom->saveXML();
@@ -838,7 +841,7 @@ EOD;
 	/**
 	 * Saída XHTML controlada.
 	 * @param $MODO string 'dom' ou 'xml', designa o tipo de retorno.
-	 * @param $xmlDom DOMDocument, reusa a saida de asStdXML('dom'). 
+	 * @param $xmlDom DOMDocument, reusa a saida de asStdXML('dom').
 	 */
 	function asStdHtml($MODO='xml', $xmlDom=NULL, $allFlor=true, $dayFilter='') {
 
@@ -852,7 +855,7 @@ EOD;
 		$xmlDom->encoding = 'UTF-8'; // importante para saveXML nao usar entidades.
 		if ($MODO=='xml'){
 			// GAMBI1: com o XSLT transformando &#160; em branco comum, foi preciso gambiarra! ver ♣.
-			// GAMBI2: o certo era percorrer elementos e alterar textos por DOM... string XML mais facil. 
+			// GAMBI2: o certo era percorrer elementos e alterar textos por DOM... string XML mais facil.
 			$xml = $xmlDom->saveXML();
 			if ($allFlor)
 				$xml = str_replace('♣','&#160;',$xml);
@@ -874,7 +877,7 @@ EOD;
 			$this->show_cssParts();
 			$this->show_xpathes();
 			if ($MODO=='relat1')
-				$this->show_extractionSumary(); 
+				$this->show_extractionSumary();
 			return ''; // já foi por print
 
 		} elseif ($MODO=='raw') {
@@ -902,7 +905,7 @@ EOD;
 					$xmlDom->saveXML()
 				);
 
-			} else 
+			} else
 				die("\nERRO2: MODO $MODO DESCONHECIDO\n");
 		}
 	} // func
@@ -922,7 +925,7 @@ function xsl_splitSecao($s,$idx) {
 		if ($idx>3)
 			return xsl_getSecao($secid);
 		elseif ($idx<0)
-			return $m[1].$m[2];	
+			return $m[1].$m[2];
 		else
 			return $m[$idx];
 	} else
@@ -966,7 +969,7 @@ function xsl_regRestore($type,$secid){
 	$tsid = "$type#$secid";	// pode ser "key#ERROR"
 	if (isset($registerLists[$tsid])) {
 		$keys = array_unique( array_keys($registerLists[$tsid]) );
-		usort($keys,'strcoll');		
+		usort($keys,'strcoll');
 	} else
 		$keys = [];
 	$k= array();
@@ -975,7 +978,7 @@ function xsl_regRestore($type,$secid){
 		foreach ($keys as $t) {
 			$idk = domParser::setIdname('k',$t,TRUE);
 			$s = join(', ',$registerLists[$tsid][$t]);
-			$k[] = "<key pubid-list=\"$s\" id=\"$idk\">$t</key>";			
+			$k[] = "<key pubid-list=\"$s\" id=\"$idk\">$t</key>";
 		}
 		return DOMDocument::loadXML( '<keys>'.join('',$k).'</keys>' );
 		break;
@@ -990,10 +993,10 @@ function xsl_regRestore($type,$secid){
 
 function rmClosedFormatters($xhtml) {
 	return str_replace(
-		['<i/>', '<em/>', '<b/>', '<strong/>', '<sub/>', '<sup/>'] 
+		['<i/>', '<em/>', '<b/>', '<strong/>', '<sub/>', '<sup/>']
 		,''
 		,$xhtml
-	);	
+	);
 }
 
 /**
@@ -1014,7 +1017,7 @@ function dayFormat($s0,$valid='global',$onlyIso=FALSE) {
 	if (is_array($valid))  		// param array
 		$ok = isset($valid[$iso]);
 	elseif ($valid=='global') {	// global array
-		global $valiDia;	
+		global $valiDia;
 		$ok = isset($valiDia[$iso]);
 	} elseif (($p=explode(' ',$valid)) && count($p)>1) {
 		$t0 = strtotime($p[0]); $t1 = strtotime($p[1]);
@@ -1038,10 +1041,10 @@ function xsl_dayFormat($s,$valid='global') {
 
 function gambi_getCsvRow($csvName,$key){
 	global $csvFiles_rowByKey;
-	return  
+	return
 		isset($csvFiles_rowByKey[$csvName][2][$key])?
 			array_xml($csvFiles_rowByKey[$csvName][2]['CSV_HEAD'],$csvFiles_rowByKey[$csvName][2][$key],FALSE):
-			"<error name='$csvName' key='$key'/>" 
+			"<error name='$csvName' key='$key'/>"
 	;
 }
 function xsl_getCsvRow($csvName,$key){
@@ -1080,19 +1083,19 @@ function xsl_splitContrib($m) {
 			$node->appendChild( $dom->createElement('surname',$name) );
 
 		$root->appendChild($node);
-		if ($i<$ni) // not last 
+		if ($i<$ni) // not last
 			$root->appendChild( $dom->createTextNode("$SEP ") );	 // menos no last!
 	}
-    return $root; 
+    return $root;
 }
 
 function xsl_markCorresp($m) {
 	$txt = $m[0]->textContent;
 	$txt = preg_replace_callback(
-		'/([ :])([^@ :]+@[^ :;,]+)/us', 
+		'/([ :])([^@ :]+@[^ :;,]+)/us',
 		function ($s) {
 			return "$s[1]<a href=\"$s[2]\">".strtolower($s[2]).'</a>';
-		},   //old '$1<a href="$2">$2</a>', 
+		},   //old '$1<a href="$2">$2</a>',
 		$txt
 	);
 	return DOMDocument::loadXML("<corresp>$txt</corresp>");
@@ -1131,7 +1134,7 @@ function showDOMNode(DOMNode $domNode,$level=0) {
         	print "\n ----";
             showDOMNode($node,$level+1);
         }
-    }    
+    }
 } // func
 
 
@@ -1154,7 +1157,7 @@ function transformToDom($xsl, &$dom, $enforceUtf8=false) {
 		$xproc->setParameter('', 'local', $dayLocais);
 	}
 	return  $xproc->transformToDoc($dom);
-	// return $this; 
+	// return $this;
 }
 
 function transformToXML($xsl, &$dom) {
@@ -1186,7 +1189,7 @@ function transformToXML($xsl, &$dom) {
 				xmlns:xlink="http://www.w3.org/1999/xlink"
 				xmlns:mml="http://www.w3.org/1998/Math/MathML"
 				'."$xmlnsFn
-				exclude-result-prefixes=\"xlink mml $fnNamespace\"  
+				exclude-result-prefixes=\"xlink mml $fnNamespace\"
 			>
 		$xsl
 		</xsl:stylesheet>
@@ -1219,7 +1222,7 @@ function transformToXML($xsl, &$dom) {
  * Converte de UTF8 para entidades numéricas XML visíveis em navegadores HTML.
  * PS: dada a independencia com DTD, é preferivel à conversão para entidades não-numericas.
  * FALTA HOMOLOGAR com caracteres de ptBR_UTF8_desacentAll.
- * 
+ *
  * @param string $utf8_string texto txt-utf-8 a ser convertido;
  * @return string com caracteres especiais convertidos para entidades numéricas.
  */
@@ -1268,7 +1271,7 @@ function csv2htable($fileIn) {
 		$s = "\n<tr><td>".join('</td><td>',$tmp)."</td></tr>";
 		if ($ret) return $s; else $out.=$s;
 	};
-	if ( csv_get($fileIn,'',$fconv) ) 
+	if ( csv_get($fileIn,'',$fconv) )
 		return "<table>".$fconv($CSV_HEAD,1)."$out\n</table>\n";
 	else
 		die("\nERRO ao abrir arquivo '$fileIn'\n");
@@ -1285,7 +1288,7 @@ function csv2xmlByHead($fileIn,$valPreserve=FALSE,$gambi=false) {
 			$tmp[5] = localValido($tmp[5]);
 		$out .= "\n<tr>".array_xml($CSV_HEAD,$tmp,$valPreserve)."</tr>";
 	};
-	if ( csv_get($fileIn,'',$fconv) ) 
+	if ( csv_get($fileIn,'',$fconv) )
 		return "<table>\n$out\n</table>\n";
 	else
 		die("\nERRO ao abrir arquivo '$fileIn'\n");
@@ -1300,8 +1303,8 @@ function array_xml($tags,$vals,$valPreserve=TRUE,$line='') {
 	$out = '';
 	for($i=0; $i<count($tags); $i++)
 		$out.="$line<$tags[$i]>"
-			.( ($valPreserve===TRUE || ($valPreserve!==TRUE && $valPreserve===$tags[$i]) )? 
-				$vals[$i]: 
+			.( ($valPreserve===TRUE || ($valPreserve!==TRUE && $valPreserve===$tags[$i]) )?
+				$vals[$i]:
 				str_replace(['>','<','&'],['&gt;','&gt;','&amp;'],$vals[$i]))
 			."</$tags[$i]>";
 	return $out;
