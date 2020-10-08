@@ -22,6 +22,7 @@ elseif ($cmd=='version')
 */
 
 $cmd=$MODO='';
+$jsonOpts = (JSON_UNESCAPED_UNICODE|JSON_UNESCAPED_SLASHES);
 
 if (isset($argv[0])) {
 	// TERMINAL:
@@ -36,7 +37,7 @@ if (isset($argv[0])) {
 } else echo "\nERRO: nao parece terminal";
 
 
-$dir_recebido = "$io_baseDir/recebidoOriginal";
+$dir_recebido = "$io_baseDir/recebidoOriginal/Resumos";
 $dir_entrega = "$io_baseDir/entregas";
 $debug =1;
 $allNodes = [];
@@ -61,10 +62,10 @@ switch ($cmd) {
 			$dom2 = new DOMDocument();
 			$dom2->loadXML($xml);
 			$dom2->encoding = 'utf-8'; // convert document encoding to UTF8
-            		$xml = $dom2->saveXML(); // return valid, utf8-encoded XML 
+            		$xml = $dom2->saveXML(); // return valid, utf8-encoded XML
 			$sxml2 = simplexml_load_string($xml,'SimpleXMLElement', LIBXML_NOCDATA);
 			$f2 = "$dir_recebido/$fu";
-			$xml = $sxml2->asXML(); //  
+			$xml = $sxml2->asXML(); //
 			file_put_contents( $f2, $xml );
 		}
 		$dit = new RecursiveIteratorIterator(
@@ -82,14 +83,14 @@ switch ($cmd) {
 	$nodeNames = array_keys($nodeNames);
 	$numItems = $allNodes[$nodePaths[0]];
 	$is_allSame = array_reduce(
-		array_values($allNodes), 
+		array_values($allNodes),
 		function ($c,$i) use ($numItems) { $c = $c && ($i==$numItems); return $c; },
 		1
 	);
 	if (!$is_allSame) print(PHP_EOL."!Erro, confira inconsitências:\n".json_encode($allNodes,$jsonOpts));
 	print "\nNode paths: ".join($nodePaths,"; ");
 	print "\nNode names: ".join($nodeNames,"; ");
-        break; // etapa01a
+  break; // etapa01a
 
     case "etapa01b":
 	echo "\n -- etapa01b - Convertendo residuos XHTML do CDATA -- ";
@@ -103,7 +104,7 @@ switch ($cmd) {
 		$dom = dom_import_simplexml($sxml_resumos);
 		$enc = $dom->ownerDocument->encoding;
 		if ($enc!='utf-8') die("\nERRO: UTF8 esperado nos XMLs.");
-		
+
 		$xml = preg_replace('~&lt;(/)?(i|sub|sup|b|strong)&gt;~s','<$1i>',$xml);
 		$xml = preg_replace('/&amp;#(\d+);/s','&#$1;',$xml);
 		file_put_contents( "$dir_recebido/{$pinfo['basename']}", $xml );
@@ -119,20 +120,20 @@ switch ($cmd) {
 	$CH_report=[];
 	$DIAC_TO = [
 		// diacrílicos para acentos do portugues vigente:
-		'c&#807;'=>"ç",    'C&#807;'=>"Ç", 
+		'c&#807;'=>"ç",    'C&#807;'=>"Ç",
 		'a&#771;'=>"ã", 'o&#771;'=>"õ",  'A&#771;'=>"Ã", 'O&#771;'=>"Õ",
 		'a&#769;'=>"á", 'e&#769;'=>"é", 'i&#769;'=>"í", 'o&#769;'=>"ó", 'u&#769;'=>"ú",
-		'A&#769;'=>"Á", 'E&#769;'=>"É", 'I&#769;'=>"Í", 'O&#769;'=>"Ó", 'U&#769;'=>"Ú", 
+		'A&#769;'=>"Á", 'E&#769;'=>"É", 'I&#769;'=>"Í", 'O&#769;'=>"Ó", 'U&#769;'=>"Ú",
 		'a&#770;'=>"â", 'e&#770;'=>"ê", 'o&#770;'=>"ô",
 		'a&#768;'=>"à",
 		// diacrílicos para nomes estrangeiros:
 		'o&#776;'=>"ö", 'u&#776;'=>"ü", // ex. Grödig and Müller
-		// ("&#8315;²" == "⁻²") dual para conveter caracter invalido 8315 em maca SUP: 
+		// ("&#8315;²" == "⁻²") dual para conveter caracter invalido 8315 em maca SUP:
 		'&#8315;¹'=>"<sup>-1</sup>", '&#8315;²'=>"<sup>-2</sup>", '&#8315;³'=>"<sup>-3</sup>", // sup ISO
 		'&#8315;⁴'=>"<sup>-8</sup>", '&#8315;⁸'=>"<sup>-4</sup>",
 		// ("&#713;¹" == 'ˉ¹') dual para conveter caracter invalido 713 em maca SUP: "&#8315;²" == "⁻²"
-		'&#713;¹'=>"<sup>-1</sup>", '&#713;²'=>"<sup>-2</sup>", '&#713;³'=>"<sup>-3</sup>", // sup ISO 
-		'&#713;⁴'=>"<sup>-8</sup>", '&#713;⁸'=>"<sup>-4</sup>", 
+		'&#713;¹'=>"<sup>-1</sup>", '&#713;²'=>"<sup>-2</sup>", '&#713;³'=>"<sup>-3</sup>", // sup ISO
+		'&#713;⁴'=>"<sup>-8</sup>", '&#713;⁸'=>"<sup>-4</sup>",
 
 	];
 	$DIAC_REGEX = "/". join('|', array_keys($DIAC_TO) ). "/s";
@@ -208,7 +209,7 @@ switch ($cmd) {
 
     case "etapa01d":
 	echo "\n -- $cmd - xxx -- ";
-		
+
 		//$sxml_resumos = new SimpleXMLElement($xml); die(PHP_EOL.$sxml_resumos->asXML());
 		// já poderia fazer mb_chr ( int $cp [, string $encoding ] ) e conferir tabela de símbolos.
 		// mb_convert_encoding($profile, 'HTML-ENTITIES', 'UTF-8'));
@@ -235,7 +236,7 @@ switch ($cmd) {
 	$n=0;
 	$ff2 = "$dir_entrega/etapa02/fronts.csv";
 	$fp2 = fopen($ff2, 'w'); //  a+
-	fputcsv($fp2, ['ID', 'Email', 'Titulo', 'Universidade', 'Autores', 'Apoio']);
+	fputcsv($fp2, ['ID', 'Email', 'Titulo', 'Universidade', 'Autores', 'Apoio', 'Conflito']);
 	foreach( glob("$dir_recebido/*.xml") as $f0 ) {
 		$f=realpath($f0);
 		$pinfo = pathinfo($f);
@@ -244,9 +245,11 @@ switch ($cmd) {
 		foreach($sxml_resumos->Resumo as $r) {
 			$n++;
 			$id = strtoupper( trim($r->Sigla) );
-			$XML_body .= "\n\n<article><h1>$id</h1>\n<section class='main'>\n"
-					. trim($r->Resumo) ."\n</section>\n<section class='conclusao'>\n"
-					. trim($r->Conclusao) ."</section>\n</article>\n";
+			$XML_body .= "\n\n<article><h1>$id</h1>"
+					."\n<section class='main'>\n". trim($r->Resumo) ."\n</section>"
+					."\n<section class='conclusao'>\n". trim($r->Conclusao) ."\n</section>"
+					//."\n<section class='conflito'>\n". trim($r->Conflito) ."\n</section>"
+					."\n</article>\n";
 			$CSV_front = [
 				'ID'=> $id,
 				'Email'=> $r->Email,
@@ -254,6 +257,7 @@ switch ($cmd) {
 				'Universidade'=> $r->Universidade,
 				'Autores'=> $r->Autores,
 				'Apoio'=> $r->Apoio,
+				'Conflito'=> $r->Conflito,
 			];
 			fputcsv($fp2, $CSV_front);
 			$IDs[$id]=1;
