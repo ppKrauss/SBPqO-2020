@@ -12,6 +12,8 @@ Nesta etapa apenas foram sanitizados os arquivos XML originais (pasta [recebidoO
 
 3. etapa 01c: ver dump abaixo.
 
+4. entrega dos arquivos XML com tags devidamente balanceadas e substituidas. (faltava tag `<em>`)
+
 -----
 
 ## dump da etapa 01c
