@@ -12,7 +12,7 @@ Nesta etapa apenas foram sanitizados os arquivos XML originais (pasta [recebidoO
 
 3. etapa 01c: ver dump abaixo.
 
-4. entrega dos arquivos XML com tags devidamente balanceadas e substituidas. (faltava tag `<em>`)
+4. entrega dos arquivos XML com tags devidamente balanceadas e substituidas. (faltava tag `<em>`). Ver [commit/e4278f6](https://github.com/ppKrauss/SBPqO-2020/commit/e4278f6334fcbfb32c1b663cd84ad75a38ca36b0).
 
 -----
 
