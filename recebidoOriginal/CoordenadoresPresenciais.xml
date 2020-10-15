@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Coordenadores xmlns:xsd="https://www.w3.org/2001/XMLSchema" xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance">
 	<Coordenador>
-		<Nome>Aldiéris Alves Pesqueira</Nome>
+		<Nome>AldiÃ©ris Alves Pesqueira</Nome>
 		<Uni>FOA-UNESP </Uni>
 	</Coordenador>
 	<Coordenador>
-		<Nome>Alice Corrêa Silva-sousa</Nome>
+		<Nome>Alice CorrÃªa Silva-sousa</Nome>
 		<Uni>FORP-USP</Uni>
 	</Coordenador>
 	<Coordenador>
@@ -21,7 +21,7 @@
 		<Uni>FOUSP</Uni>
 	</Coordenador>
 	<Coordenador>
-		<Nome>Carlos José Soares</Nome>
+		<Nome>Carlos JosÃ© Soares</Nome>
 		<Uni>UFU</Uni>
 	</Coordenador>
 	<Coordenador>
@@ -37,11 +37,11 @@
 		<Uni>FOUSP</Uni>
 	</Coordenador>
 	<Coordenador>
-		<Nome>João Gabriel Silva Souza</Nome>
+		<Nome>JoÃ£o Gabriel Silva Souza</Nome>
 		<Uni>FOP-UNICAMP</Uni>
 	</Coordenador>
 	<Coordenador>
-		<Nome>Júnia Maria Cheib Serra-negra</Nome>
+		<Nome>JÃºnia Maria Cheib Serra-negra</Nome>
 		<Uni>UFMG</Uni>
 	</Coordenador>
 	<Coordenador>
@@ -61,7 +61,7 @@
 		<Uni>UMESP</Uni>
 	</Coordenador>
 	<Coordenador>
-		<Nome>Luiz Alberto Plácido Penna</Nome>
+		<Nome>Luiz Alberto PlÃ¡cido Penna</Nome>
 		<Uni>UNIMES</Uni>
 	</Coordenador>
 	<Coordenador>
@@ -69,7 +69,7 @@
 		<Uni>FOP-UNICAMP</Uni>
 	</Coordenador>
 	<Coordenador>
-		<Nome>Manoel Damião Sousa-neto</Nome>
+		<Nome>Manoel DamiÃ£o Sousa-neto</Nome>
 		<Uni>FORP-USP</Uni>
 	</Coordenador>
 	<Coordenador>
@@ -81,7 +81,7 @@
 		<Uni>FOUSP</Uni>
 	</Coordenador>
 	<Coordenador>
-		<Nome>Mônica Cesar do Patrocinio</Nome>
+		<Nome>MÃ´nica Cesar do Patrocinio</Nome>
 		<Uni>UNITAU</Uni>
 	</Coordenador>
 	<Coordenador>
@@ -89,7 +89,7 @@
 		<Uni>UFU</Uni>
 	</Coordenador>
 	<Coordenador>
-		<Nome>Renata Pilli Jóias</Nome>
+		<Nome>Renata Pilli JÃ³ias</Nome>
 		<Uni>UMESP</Uni>
 	</Coordenador>
 	<Coordenador>
@@ -102,6 +102,6 @@
 	</Coordenador>
 	<Coordenador>
 		<Nome>Yara Teresinha Correa Silva-sousa</Nome>
-		<Uni>UNAERP - RIBEIRÃO PR</Uni>
+		<Uni>UNAERP - RIBEIRÃƒO PR</Uni>
 	</Coordenador>
 </Coordenadores>

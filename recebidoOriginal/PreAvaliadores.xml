@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
 <PreAvaliadores xmlns:xsd="https://www.w3.org/2001/XMLSchema" xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance">
 	<PreAvaliador>
 		<Nome>Adriana Barbosa Ribeiro</Nome>
@@ -21,7 +21,7 @@
 		<Uni>UFF</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Adriana de Cássia Ortiz</Nome>
+		<Nome>Adriana de CÃ¡ssia Ortiz</Nome>
 		<Uni>FOB-USP</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -42,14 +42,14 @@
 	</PreAvaliador>
 	<PreAvaliador>
 		<Nome>Adriana Sales Cunha-correia</Nome>
-		<Uni></Uni>
+		<Uni/>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Aimée Maria Guiotti</Nome>
+		<Nome>AimÃ©e Maria Guiotti</Nome>
 		<Uni>FOA-UNESP </Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Aldiéris Alves Pesqueira</Nome>
+		<Nome>AldiÃ©ris Alves Pesqueira</Nome>
 		<Uni>FOA-UNESP </Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -69,7 +69,7 @@
 		<Uni>USF</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Álex Moreira Herval</Nome>
+		<Nome>Ãlex Moreira Herval</Nome>
 		<Uni>UFU</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -97,7 +97,7 @@
 		<Uni>UFMG</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Aline Batista Gonçalves Franco</Nome>
+		<Nome>Aline Batista GonÃ§alves Franco</Nome>
 		<Uni>SL MANDIC</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -117,7 +117,7 @@
 		<Uni>UPF</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Amália Moreno</Nome>
+		<Nome>AmÃ¡lia Moreno</Nome>
 		<Uni>UFMG</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -125,7 +125,7 @@
 		<Uni>UFRJ</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Amanda Falcão</Nome>
+		<Nome>Amanda FalcÃ£o</Nome>
 		<Uni>FOP-UNICAMP</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -133,7 +133,7 @@
 		<Uni>UNC</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Ana Carla Raphaelli Nahás-scocate</Nome>
+		<Nome>Ana Carla Raphaelli NahÃ¡s-scocate</Nome>
 		<Uni>UnG</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -141,7 +141,7 @@
 		<Uni>UNOPAR</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Ana Cláudia Rossi</Nome>
+		<Nome>Ana ClÃ¡udia Rossi</Nome>
 		<Uni>FOP-UNICAMP</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -149,19 +149,19 @@
 		<Uni>UFMG</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Ana Emília Farias Pontes</Nome>
+		<Nome>Ana EmÃ­lia Farias Pontes</Nome>
 		<Uni>UFJF</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Ana Flávia Bissoto Calvo</Nome>
+		<Nome>Ana FlÃ¡via Bissoto Calvo</Nome>
 		<Uni>FOUSP</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Ana Flávia Granville-garcia</Nome>
+		<Nome>Ana FlÃ¡via Granville-garcia</Nome>
 		<Uni>UEPB</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Ana Flávia Soares</Nome>
+		<Nome>Ana FlÃ¡via Soares</Nome>
 		<Uni>UESB</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -177,7 +177,7 @@
 		<Uni>UFRJ</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Ana Maria Gondim Valença</Nome>
+		<Nome>Ana Maria Gondim ValenÃ§a</Nome>
 		<Uni>UFPB</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -201,8 +201,8 @@
 		<Uni>UERJ</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Ana Paula Rodrigues de Magalhães</Nome>
-		<Uni>UNIP - GOIÁS</Uni>
+		<Nome>Ana Paula Rodrigues de MagalhÃ£es</Nome>
+		<Uni>UNIP - GOIÃS</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
 		<Nome>Ana Paula Turrioni</Nome>
@@ -213,15 +213,15 @@
 		<Uni>UNOESTE</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>André Luis Faria-e-silva</Nome>
+		<Nome>AndrÃ© Luis Faria-e-silva</Nome>
 		<Uni>UFS</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>André Luiz Ferreira Costa</Nome>
+		<Nome>AndrÃ© Luiz Ferreira Costa</Nome>
 		<Uni>UNICSUL</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Andréa Antônia Costa</Nome>
+		<Nome>AndrÃ©a AntÃ´nia Costa</Nome>
 		<Uni>UFMG</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -229,15 +229,15 @@
 		<Uni>FOP-UNICAMP</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Andréa Clemente Palmier</Nome>
+		<Nome>AndrÃ©a Clemente Palmier</Nome>
 		<Uni>UFMG</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Andréa Ferreira Santos da Cruz</Nome>
+		<Nome>AndrÃ©a Ferreira Santos da Cruz</Nome>
 		<Uni>UFPA</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Andréa Fonseca-gonçalves</Nome>
+		<Nome>AndrÃ©a Fonseca-gonÃ§alves</Nome>
 		<Uni>UFRJ</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -245,15 +245,15 @@
 		<Uni>UFMS</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Andréa Lanzillotti Cardoso</Nome>
+		<Nome>AndrÃ©a Lanzillotti Cardoso</Nome>
 		<Uni>UERJ</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
 		<Nome>Andrea Marcia Marcaccini</Nome>
-		<Uni>UNAERP - RIBEIRÃO PR</Uni>
+		<Uni>UNAERP - RIBEIRÃƒO PR</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Andréa Vaz Braga Pintor</Nome>
+		<Nome>AndrÃ©a Vaz Braga Pintor</Nome>
 		<Uni>UFRJ</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -277,7 +277,7 @@
 		<Uni>SL MANDIC</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Antônio Carlos de Oliveira Ruellas</Nome>
+		<Nome>AntÃ´nio Carlos de Oliveira Ruellas</Nome>
 		<Uni>UFRJ</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -297,11 +297,11 @@
 		<Uni>FOAR-UNESP</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Beatriz Gonçalves Neves</Nome>
+		<Nome>Beatriz GonÃ§alves Neves</Nome>
 		<Uni>UFC -Sobral</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Belén Retamal-valdes</Nome>
+		<Nome>BelÃ©n Retamal-valdes</Nome>
 		<Uni>UnG</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -325,7 +325,7 @@
 		<Uni>UFPI</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Caio Vinicius Gonçalves Roman-torres</Nome>
+		<Nome>Caio Vinicius GonÃ§alves Roman-torres</Nome>
 		<Uni>UNISA</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -381,15 +381,15 @@
 		<Uni>UFU</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Carlos José Soares</Nome>
+		<Nome>Carlos JosÃ© Soares</Nome>
 		<Uni>UFU</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Carolina Amália Barcellos Silva</Nome>
+		<Nome>Carolina AmÃ¡lia Barcellos Silva</Nome>
 		<Uni>UFSC</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Carolina Bosso André</Nome>
+		<Nome>Carolina Bosso AndrÃ©</Nome>
 		<Uni>UFMG</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -397,7 +397,7 @@
 		<Uni>UFMG</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Carolina Patrícia Aires</Nome>
+		<Nome>Carolina PatrÃ­cia Aires</Nome>
 		<Uni>FCFRP-USP</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -409,7 +409,7 @@
 		<Uni>FOP-UNICAMP</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Cássia Maria Fischer Rubira</Nome>
+		<Nome>CÃ¡ssia Maria Fischer Rubira</Nome>
 		<Uni>FOB-USP</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -421,7 +421,7 @@
 		<Uni>UFCG</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Cátia Maria Fonseca Guerra</Nome>
+		<Nome>CÃ¡tia Maria Fonseca Guerra</Nome>
 		<Uni>UFPE</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -433,7 +433,7 @@
 		<Uni>UFPA</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Celia Maria Condeixa de França Lopes</Nome>
+		<Nome>Celia Maria Condeixa de FranÃ§a Lopes</Nome>
 		<Uni>UNIVILLE</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -442,18 +442,18 @@
 	</PreAvaliador>
 	<PreAvaliador>
 		<Nome>Cintia Helena Coury Saraceni</Nome>
-		<Uni>UNIP - SÃO PAULO</Uni>
+		<Uni>UNIP - SÃƒO PAULO</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
 		<Nome>Clarissa Lopes Drumond</Nome>
 		<Uni>FSM</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Cláudia Lopes Brilhante Bhering</Nome>
+		<Nome>ClÃ¡udia Lopes Brilhante Bhering</Nome>
 		<Uni>UFMG</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Cláudia Maria Coêlho Alves</Nome>
+		<Nome>ClÃ¡udia Maria CoÃªlho Alves</Nome>
 		<Uni>UFMA</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -461,7 +461,7 @@
 		<Uni>FOUSP</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Cláudio Luis de Melo-silva</Nome>
+		<Nome>ClÃ¡udio Luis de Melo-silva</Nome>
 		<Uni>UNIFOA</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -477,7 +477,7 @@
 		<Uni>UFJF</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Cléverson de Oliveira E. Silva</Nome>
+		<Nome>ClÃ©verson de Oliveira E. Silva</Nome>
 		<Uni>UEM</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -489,7 +489,7 @@
 		<Uni>UNIFOA</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Cristiane Meira Assunção</Nome>
+		<Nome>Cristiane Meira AssunÃ§Ã£o</Nome>
 		<Uni>UFMG</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -502,7 +502,7 @@
 	</PreAvaliador>
 	<PreAvaliador>
 		<Nome>Cristina Lucia Feijo Ortolani</Nome>
-		<Uni>UNIP - SÃO PAULO</Uni>
+		<Uni>UNIP - SÃƒO PAULO</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
 		<Nome>Cristina Pereira Isolan</Nome>
@@ -541,7 +541,7 @@
 		<Uni>FOB-USP</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Danielle Tupinambá Emmi</Nome>
+		<Nome>Danielle TupinambÃ¡ Emmi</Nome>
 		<Uni>UFPA</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -549,16 +549,16 @@
 		<Uni>UFPE</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Dayse Andrade Romão</Nome>
+		<Nome>Dayse Andrade RomÃ£o</Nome>
 		<Uni>UFAL</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Débora Alves Nunes Leite Lima</Nome>
+		<Nome>DÃ©bora Alves Nunes Leite Lima</Nome>
 		<Uni>FOP-UNICAMP</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
 		<Nome>Denise Carleto Andia</Nome>
-		<Uni>UNIP - SÃO PAULO</Uni>
+		<Uni>UNIP - SÃƒO PAULO</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
 		<Nome>Denise Vieira Travassos</Nome>
@@ -569,7 +569,7 @@
 		<Uni>UNESA - RECREIO</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Dimas Renó de Lima</Nome>
+		<Nome>Dimas RenÃ³ de Lima</Nome>
 		<Uni>ICT-UNESP/SJC</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -581,7 +581,7 @@
 		<Uni>FOUSP</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Edgard Norões Rodrigues da Matta</Nome>
+		<Nome>Edgard NorÃµes Rodrigues da Matta</Nome>
 		<Uni>UFAL</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -605,7 +605,7 @@
 		<Uni>UFPB</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Eduardo Franzotti Sant´anna</Nome>
+		<Nome>Eduardo Franzotti SantÂ´anna</Nome>
 		<Uni>UFRJ</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -613,7 +613,7 @@
 		<Uni>ICT-UNESP/SJC</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Efigênia Ferreira E. Ferreira</Nome>
+		<Nome>EfigÃªnia Ferreira E. Ferreira</Nome>
 		<Uni>UFMG</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -653,7 +653,7 @@
 		<Uni>UFF</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Elton Gonçalves Zenóbio</Nome>
+		<Nome>Elton GonÃ§alves ZenÃ³bio</Nome>
 		<Uni>PUC-MG</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -665,7 +665,7 @@
 		<Uni>FOP-UNICAMP</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Emílio Carlos Sponchiado Júnior</Nome>
+		<Nome>EmÃ­lio Carlos Sponchiado JÃºnior</Nome>
 		<Uni>UFAM</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -674,14 +674,14 @@
 	</PreAvaliador>
 	<PreAvaliador>
 		<Nome>Erica Alves Gomes</Nome>
-		<Uni>UNAERP - RIBEIRÃO PR</Uni>
+		<Uni>UNAERP - RIBEIRÃƒO PR</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
 		<Nome>Erica Dorigatti de Avila</Nome>
 		<Uni>FOAR-UNESP</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Esdras de Campos França</Nome>
+		<Nome>Esdras de Campos FranÃ§a</Nome>
 		<Uni>UFMG</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -697,12 +697,12 @@
 		<Uni>UNOESTE</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Fabiana Mantovani Gomes França</Nome>
+		<Nome>Fabiana Mantovani Gomes FranÃ§a</Nome>
 		<Uni>SL MANDIC</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
 		<Nome>Fabiano Ribeiro Cirano</Nome>
-		<Uni>UNIP - SÃO PAULO</Uni>
+		<Uni>UNIP - SÃƒO PAULO</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
 		<Nome>Fabio Daumas Nunes</Nome>
@@ -713,11 +713,11 @@
 		<Uni>FORP-USP</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Fábio Wildson Gurgel Costa</Nome>
+		<Nome>FÃ¡bio Wildson Gurgel Costa</Nome>
 		<Uni>UFC</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Fabíola Galbiatti de Carvalho</Nome>
+		<Nome>FabÃ­ola Galbiatti de Carvalho</Nome>
 		<Uni>UFJF</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -741,8 +741,8 @@
 		<Uni>FAHESA/ITPAC-Palmas</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Fernanda Gonçalves Basso</Nome>
-		<Uni>UNAERP - RIBEIRÃO PR</Uni>
+		<Nome>Fernanda GonÃ§alves Basso</Nome>
+		<Uni>UNAERP - RIBEIRÃƒO PR</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
 		<Nome>Fernanda Miori Pascon</Nome>
@@ -753,7 +753,7 @@
 		<Uni>UFMG</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Fernando Antônio Mauad de Abreu</Nome>
+		<Nome>Fernando AntÃ´nio Mauad de Abreu</Nome>
 		<Uni>PUC-MG</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -765,23 +765,23 @@
 		<Uni>FOUSP</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Flávia Aparecida Chaves Furlaneto</Nome>
+		<Nome>FlÃ¡via Aparecida Chaves Furlaneto</Nome>
 		<Uni>FORP-USP</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Flávia Maia Silveira</Nome>
+		<Nome>FlÃ¡via Maia Silveira</Nome>
 		<Uni>UFF</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Flávia Martão Flório</Nome>
+		<Nome>FlÃ¡via MartÃ£o FlÃ³rio</Nome>
 		<Uni>SL MANDIC</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Flávio de Freitas Mattos</Nome>
+		<Nome>FlÃ¡vio de Freitas Mattos</Nome>
 		<Uni>UFMG</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Flávio Renato Reis de Moura</Nome>
+		<Nome>FlÃ¡vio Renato Reis de Moura</Nome>
 		<Uni>ULBRA</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -801,7 +801,7 @@
 		<Uni>FORP-USP</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Francisco Xavier Paranhos Coelho Simões</Nome>
+		<Nome>Francisco Xavier Paranhos Coelho SimÃµes</Nome>
 		<Uni>UESB</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -809,12 +809,12 @@
 		<Uni>UFPB</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Frederico Dos Reis Goyatá</Nome>
+		<Nome>Frederico Dos Reis GoyatÃ¡</Nome>
 		<Uni>UNIFAL-MG</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
 		<Nome>Fuad Jacob Abi Rached-junior</Nome>
-		<Uni>UNAERP - RIBEIRÃO PR</Uni>
+		<Uni>UNAERP - RIBEIRÃƒO PR</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
 		<Nome>Gabriela Alessandra da Cruz Galhardo Camargo</Nome>
@@ -845,11 +845,11 @@
 		<Uni>UFRJ</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Gisselle Moraima Chávez-andrade</Nome>
+		<Nome>Gisselle Moraima ChÃ¡vez-andrade</Nome>
 		<Uni>FOAR-UNESP</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Gláuber Campos Vale</Nome>
+		<Nome>GlÃ¡uber Campos Vale</Nome>
 		<Uni>UFPI</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -858,7 +858,7 @@
 	</PreAvaliador>
 	<PreAvaliador>
 		<Nome>Graziela Bianchi Leoni</Nome>
-		<Uni>UNAERP - RIBEIRÃO PR</Uni>
+		<Uni>UNAERP - RIBEIRÃƒO PR</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
 		<Nome>Guilherme Bianchine de Moura</Nome>
@@ -869,11 +869,11 @@
 		<Uni>UFPE</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Gustavo Sivieri-araújo</Nome>
+		<Nome>Gustavo Sivieri-araÃºjo</Nome>
 		<Uni>FOA-UNESP </Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Heitor Marques Honório</Nome>
+		<Nome>Heitor Marques HonÃ³rio</Nome>
 		<Uni>FOB-USP</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -881,7 +881,7 @@
 		<Uni>AEE</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Heloisa Fonseca Marão</Nome>
+		<Nome>Heloisa Fonseca MarÃ£o</Nome>
 		<Uni>UNISA</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -897,7 +897,7 @@
 		<Uni>UFC -Sobral</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Inger Teixeira de Campos Tuñas</Nome>
+		<Nome>Inger Teixeira de Campos TuÃ±as</Nome>
 		<Uni>UFRJ</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -905,12 +905,12 @@
 		<Uni>UFAL</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Isabel Cristina Gonçalves Leite</Nome>
+		<Nome>Isabel Cristina GonÃ§alves Leite</Nome>
 		<Uni>UFJF</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
 		<Nome>Ivana Barbosa Suffredini</Nome>
-		<Uni>UNIP - SÃO PAULO</Uni>
+		<Uni>UNIP - SÃƒO PAULO</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
 		<Nome>Ivana Marcia Alves Diniz</Nome>
@@ -949,15 +949,15 @@
 		<Uni>UFMG</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>João Adolfo Costa Hanemann</Nome>
+		<Nome>JoÃ£o Adolfo Costa Hanemann</Nome>
 		<Uni>UNIFAL-MG</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>João Batista Blessmann Weber</Nome>
+		<Nome>JoÃ£o Batista Blessmann Weber</Nome>
 		<Uni>PUC - RS</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>João Marcelo Ferreira de Medeiros</Nome>
+		<Nome>JoÃ£o Marcelo Ferreira de Medeiros</Nome>
 		<Uni>UB</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -969,27 +969,27 @@
 		<Uni>UFRGS</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>José Ferreira Costa</Nome>
+		<Nome>JosÃ© Ferreira Costa</Nome>
 		<Uni>UFMA</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>José Massao Miasato</Nome>
+		<Nome>JosÃ© Massao Miasato</Nome>
 		<Uni>UNIGRANRIO</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Jose Narciso Rosa Assunção-junior</Nome>
+		<Nome>Jose Narciso Rosa AssunÃ§Ã£o-junior</Nome>
 		<Uni>UNIMES</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>José Roberto Cortelli</Nome>
+		<Nome>JosÃ© Roberto Cortelli</Nome>
 		<Uni>UNITAU</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>José Tarcísio Lima Ferreira</Nome>
+		<Nome>JosÃ© TarcÃ­sio Lima Ferreira</Nome>
 		<Uni>FORP-USP</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>José Thadeu Pinheiro</Nome>
+		<Nome>JosÃ© Thadeu Pinheiro</Nome>
 		<Uni>UFPE</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -1005,7 +1005,7 @@
 		<Uni>FOAR-UNESP</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Josué Martos</Nome>
+		<Nome>JosuÃ© Martos</Nome>
 		<Uni>UFPEL</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -1049,7 +1049,7 @@
 		<Uni>FOA-UNESP </Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Júnia Maria Cheib Serra-negra</Nome>
+		<Nome>JÃºnia Maria Cheib Serra-negra</Nome>
 		<Uni>UFMG</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -1101,7 +1101,7 @@
 		<Uni>FOA-UNESP </Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Leopoldina de Fátima Dantas de Almeida</Nome>
+		<Nome>Leopoldina de FÃ¡tima Dantas de Almeida</Nome>
 		<Uni>UFPB</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -1109,11 +1109,11 @@
 		<Uni>NEWTON PAIVA (NP)</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Lígia Antunes Pereira Pinelli</Nome>
+		<Nome>LÃ­gia Antunes Pereira Pinelli</Nome>
 		<Uni>FOAR-UNESP</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Lígia Maria Napolitano Gonçalves</Nome>
+		<Nome>LÃ­gia Maria Napolitano GonÃ§alves</Nome>
 		<Uni>FORP-USP</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -1133,7 +1133,7 @@
 		<Uni>UFMS</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Lívia Guimarães Zina</Nome>
+		<Nome>LÃ­via GuimarÃ£es Zina</Nome>
 		<Uni>UFMG</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -1141,7 +1141,7 @@
 		<Uni>UFSC</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Lucas Guimarães Abreu</Nome>
+		<Nome>Lucas GuimarÃ£es Abreu</Nome>
 		<Uni>UFMG</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -1157,11 +1157,11 @@
 		<Uni>SL MANDIC</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Luciana Fávaro Francisconi-dos-rios</Nome>
+		<Nome>Luciana FÃ¡varo Francisconi-dos-rios</Nome>
 		<Uni>FOUSP</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Luciana Fonseca Pádua Gonçalves Tourino</Nome>
+		<Nome>Luciana Fonseca PÃ¡dua GonÃ§alves Tourino</Nome>
 		<Uni>UNILAVRAS</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -1173,7 +1173,7 @@
 		<Uni>UNOPAR</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Luciana Reichert da Silva Assunção</Nome>
+		<Nome>Luciana Reichert da Silva AssunÃ§Ã£o</Nome>
 		<Uni>UFPR</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -1189,12 +1189,12 @@
 		<Uni>UFRJ</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Luciano José Pereira</Nome>
+		<Nome>Luciano JosÃ© Pereira</Nome>
 		<Uni>UFLA</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
 		<Nome>Luciano Lauria Dib</Nome>
-		<Uni>UNIP - SÃO PAULO</Uni>
+		<Uni>UNIP - SÃƒO PAULO</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
 		<Nome>Lucyene Miguita</Nome>
@@ -1205,7 +1205,7 @@
 		<Uni>UFBA</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Luiz Alberto Plácido Penna</Nome>
+		<Nome>Luiz Alberto PlÃ¡cido Penna</Nome>
 		<Uni>UNIMES</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -1221,7 +1221,7 @@
 		<Uni>UFU</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Luiz Roberto Coutinho Manhães jr</Nome>
+		<Nome>Luiz Roberto Coutinho ManhÃ£es jr</Nome>
 		<Uni>FOSJC-UNESP</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -1233,15 +1233,15 @@
 		<Uni>FOP-UNICAMP</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Maíra do Prado</Nome>
+		<Nome>MaÃ­ra do Prado</Nome>
 		<Uni>UVA</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Maisa Camillo Jordão</Nome>
+		<Nome>Maisa Camillo JordÃ£o</Nome>
 		<Uni>UNICSUL</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Manoel Damião Sousa-neto</Nome>
+		<Nome>Manoel DamiÃ£o Sousa-neto</Nome>
 		<Uni>FORP-USP</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -1249,7 +1249,7 @@
 		<Uni>UEPG</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Marcelo Bönecker</Nome>
+		<Nome>Marcelo BÃ¶necker</Nome>
 		<Uni>FOUSP</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -1273,11 +1273,11 @@
 		<Uni>UNISA</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Márcia Martins Marques</Nome>
+		<Nome>MÃ¡rcia Martins Marques</Nome>
 		<Uni>FOUSP</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Márcia Pereira Alves Dos Santos</Nome>
+		<Nome>MÃ¡rcia Pereira Alves Dos Santos</Nome>
 		<Uni>UFRJ</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -1285,7 +1285,7 @@
 		<Uni>FOUFF-NF </Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Márcia Rezende</Nome>
+		<Nome>MÃ¡rcia Rezende</Nome>
 		<Uni>FACPP</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -1293,7 +1293,7 @@
 		<Uni>FOUSP</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Márcio Mateus Beloti</Nome>
+		<Nome>MÃ¡rcio Mateus Beloti</Nome>
 		<Uni>FORP-USP</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -1301,7 +1301,7 @@
 		<Uni>UNOPAR</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Marco Aurélio Benini Paschoal</Nome>
+		<Nome>Marco AurÃ©lio Benini Paschoal</Nome>
 		<Uni>UFMG</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -1321,7 +1321,7 @@
 		<Uni>UFAM</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Maria Beatriz Duarte Gavião</Nome>
+		<Nome>Maria Beatriz Duarte GaviÃ£o</Nome>
 		<Uni>FOP-UNICAMP</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -1329,7 +1329,7 @@
 		<Uni>FORP-USP</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Maria Cecília Caldas Giorgi</Nome>
+		<Nome>Maria CecÃ­lia Caldas Giorgi</Nome>
 		<Uni>UEA</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -1337,7 +1337,7 @@
 		<Uni>FOUSP</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Maria Eliza da Consolação Soares</Nome>
+		<Nome>Maria Eliza da ConsolaÃ§Ã£o Soares</Nome>
 		<Uni>UFVJM</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -1349,15 +1349,15 @@
 		<Uni>FOUSP</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Maria Helena Chaves de Vasconcelos Catão</Nome>
+		<Nome>Maria Helena Chaves de Vasconcelos CatÃ£o</Nome>
 		<Uni>UEPB</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Maria Inês da Cruz Campos</Nome>
+		<Nome>Maria InÃªs da Cruz Campos</Nome>
 		<Uni>UFJF</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Maria Isabel Anastacio Faria de França</Nome>
+		<Nome>Maria Isabel Anastacio Faria de FranÃ§a</Nome>
 		<Uni>UFPR</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -1397,7 +1397,7 @@
 		<Uni>UFG</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Marilisa Carneiro Leão Gabardo</Nome>
+		<Nome>Marilisa Carneiro LeÃ£o Gabardo</Nome>
 		<Uni>UP</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -1409,7 +1409,7 @@
 		<Uni>FOUSP</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Mário Alexandre Coelho Sinhoreti</Nome>
+		<Nome>MÃ¡rio Alexandre Coelho Sinhoreti</Nome>
 		<Uni>FOP-UNICAMP</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -1417,15 +1417,15 @@
 		<Uni>FORP-USP</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Mário Tanomaru-filho</Nome>
+		<Nome>MÃ¡rio Tanomaru-filho</Nome>
 		<Uni>FOAR-UNESP</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
 		<Nome>Maristela Dutra-correa</Nome>
-		<Uni>UNIP - SÃO PAULO</Uni>
+		<Uni>UNIP - SÃƒO PAULO</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Marlise Inêz Klein</Nome>
+		<Nome>Marlise InÃªz Klein</Nome>
 		<Uni>FOAR-UNESP</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -1437,7 +1437,7 @@
 		<Uni>UESB</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Maurício Augusto Aquino de Castro</Nome>
+		<Nome>MaurÃ­cio Augusto Aquino de Castro</Nome>
 		<Uni>UFMG</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -1445,7 +1445,7 @@
 		<Uni>UCB - DF</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Mauro Henrique Nogueira Guimarães de Abreu</Nome>
+		<Nome>Mauro Henrique Nogueira GuimarÃ£es de Abreu</Nome>
 		<Uni>UFMG</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -1473,7 +1473,7 @@
 		<Uni>FOUSP</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Mônica Cesar do Patrocinio</Nome>
+		<Nome>MÃ´nica Cesar do Patrocinio</Nome>
 		<Uni>UNITAU</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -1481,7 +1481,7 @@
 		<Uni>UFRJ</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Morgana Rodrigues Guimarães Stabili</Nome>
+		<Nome>Morgana Rodrigues GuimarÃ£es Stabili</Nome>
 		<Uni>FOAR-UNESP</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -1493,11 +1493,11 @@
 		<Uni>FORP-USP</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Nádia do Lago Costa</Nome>
+		<Nome>NÃ¡dia do Lago Costa</Nome>
 		<Uni>UFG</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Nailê Damé-teixeira</Nome>
+		<Nome>NailÃª DamÃ©-teixeira</Nome>
 		<Uni>UNB</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -1505,11 +1505,11 @@
 		<Uni>UFMG</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Natalino Lourenço Neto</Nome>
+		<Nome>Natalino LourenÃ§o Neto</Nome>
 		<Uni>FOB-USP</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Nathália Barbosa Palomares</Nome>
+		<Nome>NathÃ¡lia Barbosa Palomares</Nome>
 		<Uni>UERJ</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -1517,7 +1517,7 @@
 		<Uni>UFJF</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Noéli Boscato</Nome>
+		<Nome>NoÃ©li Boscato</Nome>
 		<Uni>UFPEL</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -1533,15 +1533,15 @@
 		<Uni>UEL</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Patrícia Corrêa-faria</Nome>
+		<Nome>PatrÃ­cia CorrÃªa-faria</Nome>
 		<Uni>UFG</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Patrícia Daniela Melchiors Angst</Nome>
+		<Nome>PatrÃ­cia Daniela Melchiors Angst</Nome>
 		<Uni>UFRGS</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Patrícia de Andrade Risso</Nome>
+		<Nome>PatrÃ­cia de Andrade Risso</Nome>
 		<Uni>UFRJ</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -1557,7 +1557,7 @@
 		<Uni>USF</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Patrícia Meira Bento</Nome>
+		<Nome>PatrÃ­cia Meira Bento</Nome>
 		<Uni>UEPB</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -1573,7 +1573,7 @@
 		<Uni>UVA</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Patrícia Pimentel de Barros</Nome>
+		<Nome>PatrÃ­cia Pimentel de Barros</Nome>
 		<Uni>ICT-UNESP/SJC</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -1581,15 +1581,15 @@
 		<Uni>UNIFESP</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Paula Nunes Guimarães Paes</Nome>
+		<Nome>Paula Nunes GuimarÃ£es Paes</Nome>
 		<Uni>UERJ</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Paulo Antônio Martins-júnior</Nome>
+		<Nome>Paulo AntÃ´nio Martins-jÃºnior</Nome>
 		<Uni>UFMG</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Paulo César Rodrigues Conti</Nome>
+		<Nome>Paulo CÃ©sar Rodrigues Conti</Nome>
 		<Uni>FOB-USP</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -1625,11 +1625,11 @@
 		<Uni>UPF</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Paulo Sérgio Cerri</Nome>
+		<Nome>Paulo SÃ©rgio Cerri</Nome>
 		<Uni>FOAR-UNESP</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Paulo Sérgio da Silva Santos</Nome>
+		<Nome>Paulo SÃ©rgio da Silva Santos</Nome>
 		<Uni>FOB-USP</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -1641,7 +1641,7 @@
 		<Uni>FOP-UNICAMP</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Plínio da Silva Macêdo</Nome>
+		<Nome>PlÃ­nio da Silva MacÃªdo</Nome>
 		<Uni>UFPI</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -1685,11 +1685,11 @@
 		<Uni>UFPR</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Raquel Conceição Ferreira</Nome>
+		<Nome>Raquel ConceiÃ§Ã£o Ferreira</Nome>
 		<Uni>UFMG</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Raquel Gonçalves Vieira-andrade</Nome>
+		<Nome>Raquel GonÃ§alves Vieira-andrade</Nome>
 		<Uni>UFMG</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -1710,7 +1710,7 @@
 	</PreAvaliador>
 	<PreAvaliador>
 		<Nome>Regina Mota de Carvalho</Nome>
-		<Uni>UNIEVANGÉLICA</Uni>
+		<Uni>UNIEVANGÃ‰LICA</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
 		<Nome>Renata de Castro Martins</Nome>
@@ -1721,15 +1721,15 @@
 		<Uni>ICT-UNESP/SJC</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Renata Oliveira Guaré</Nome>
+		<Nome>Renata Oliveira GuarÃ©</Nome>
 		<Uni>UNICSUL</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Renata Pilli Jóias</Nome>
+		<Nome>Renata Pilli JÃ³ias</Nome>
 		<Uni>UMESP</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Renato Corrêa Viana Casarin</Nome>
+		<Nome>Renato CorrÃªa Viana Casarin</Nome>
 		<Uni>FOP-UNICAMP</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -1781,7 +1781,7 @@
 		<Uni>PUC-MG</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Rogério Heládio Lopes Motta</Nome>
+		<Nome>RogÃ©rio HelÃ¡dio Lopes Motta</Nome>
 		<Uni>SL MANDIC</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -1789,11 +1789,11 @@
 		<Uni>UFJF</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Rogério Margonar</Nome>
+		<Nome>RogÃ©rio Margonar</Nome>
 		<Uni>UNIARA</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Ronaldo Luís Almeida de Carvalho</Nome>
+		<Nome>Ronaldo LuÃ­s Almeida de Carvalho</Nome>
 		<Uni>UBC</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -1809,7 +1809,7 @@
 		<Uni>UFSC</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Samuel Porfírio Xavier</Nome>
+		<Nome>Samuel PorfÃ­rio Xavier</Nome>
 		<Uni>FORP-USP</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -1825,7 +1825,7 @@
 		<Uni>UFMG</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Sávio José Cardoso Bezerra</Nome>
+		<Nome>SÃ¡vio JosÃ© Cardoso Bezerra</Nome>
 		<Uni>FOUSP</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -1833,16 +1833,16 @@
 		<Uni>ULBRA</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Sergio Luiz Melo Gonçalves</Nome>
+		<Nome>Sergio Luiz Melo GonÃ§alves</Nome>
 		<Uni>UFF</Uni>
 
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Sergio Luiz Mota Júnior</Nome>
+		<Nome>Sergio Luiz Mota JÃºnior</Nome>
 		<Uni>UFJF</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Sérgio Luiz Pinheiro</Nome>
+		<Nome>SÃ©rgio Luiz Pinheiro</Nome>
 		<Uni>PUC - CAMPINAS</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -1870,7 +1870,7 @@
 		<Uni>FOB-USP</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Sílvia Maria Ribeiro de Alencar Gonçalves</Nome>
+		<Nome>SÃ­lvia Maria Ribeiro de Alencar GonÃ§alves</Nome>
 		<Uni>UFRJ</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -1918,7 +1918,7 @@
 		<Uni>UCB - DF</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Taís Scaramucci</Nome>
+		<Nome>TaÃ­s Scaramucci</Nome>
 		<Uni>FOUSP</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -1934,7 +1934,7 @@
 		<Uni>UnG</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Tarcília Aparecida da Silva</Nome>
+		<Nome>TarcÃ­lia Aparecida da Silva</Nome>
 		<Uni>UFMG</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -1966,7 +1966,7 @@
 		<Uni>FOUSP</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Thaís Yumi Umeda Suzuki</Nome>
+		<Nome>ThaÃ­s Yumi Umeda Suzuki</Nome>
 		<Uni>UFMG</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -1986,11 +1986,11 @@
 		<Uni>UFC</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Túlio Eduardo Nogueira</Nome>
+		<Nome>TÃºlio Eduardo Nogueira</Nome>
 		<Uni>UFG</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Valentim Adelino Ricardo Barão</Nome>
+		<Nome>Valentim Adelino Ricardo BarÃ£o</Nome>
 		<Uni>FOP-UNICAMP</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -2010,7 +2010,7 @@
 		<Uni>UNOESTE</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
-		<Nome>Victor Ricardo Manuel Muñoz Lora</Nome>
+		<Nome>Victor Ricardo Manuel MuÃ±oz Lora</Nome>
 		<Uni>FOP-UNICAMP</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
@@ -2039,7 +2039,7 @@
 	</PreAvaliador>
 	<PreAvaliador>
 		<Nome>Yara Teresinha Correa Silva-sousa</Nome>
-		<Uni>UNAERP - RIBEIRÃO PR</Uni>
+		<Uni>UNAERP - RIBEIRÃƒO PR</Uni>
 	</PreAvaliador>
 	<PreAvaliador>
 		<Nome>Yuri Wanderley Cavalcanti</Nome>
